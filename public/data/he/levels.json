@@ -1,0 +1,1338 @@
+{
+  "levels": [
+    {
+      "id": 1,
+      "title": "יסודות היומיום א",
+      "description": "מילים יסודיות הנפוצות בספרדית יומיומית.",
+      "words": [
+        {
+          "word": "Yo",
+          "filename": "yo",
+          "translations": [
+            "אני"
+          ],
+          "definition": "הכינוי שבו דובר משתמש כדי להתייחס לעצמו. דוגמה: \"Yo hablo español\" (אני מדבר ספרדית)",
+          "note": "בספרדית, כינויי גוף נושא כמו \"yo\" בדרך כלל מושמטים, אלא אם כן משתמשים בהם להדגשה או להבהרה."
+        },
+        {
+          "word": "Soy",
+          "filename": "soy",
+          "translations": [
+            "אני"
+          ],
+          "definition": "צורת ההווה בגוף ראשון יחיד של \"ser\" (להיות). משמשת כדי לומר מה מישהו הוא, איך הוא, מה הוא עושה, או מאין הוא. דוגמה: \"Soy estudiante\" (אני סטודנט)",
+          "info": "\"Soy\" כבר כולל את המשמעות של \"yo\", ולכן לעתים קרובות משמיטים את \"yo\"."
+        },
+        {
+          "word": "Agua",
+          "filename": "agua",
+          "translations": [
+            "מים"
+          ],
+          "definition": "נוזל שקוף, חסר ריח וחסר טעם, המורכב ממימן ומחמצן."
+        },
+        {
+          "word": "Dios",
+          "filename": "Dios",
+          "translations": [
+            "אלוהים"
+          ],
+          "definition": "הישות העליונה, הבורא והשליט של היקום, הנערצת בדתות מונותאיסטיות."
+        },
+        {
+          "word": "Familia",
+          "filename": "familia",
+          "translations": [
+            "משפחה"
+          ],
+          "definition": "קבוצה של בני אדם הקשורים בקשרי דם, נישואין, אימוץ או קשרים רגשיים חזקים, שבדרך כלל חולקים משק בית, תומכים זה בזה וחיים יחד כיחידה חברתית."
+        },
+        {
+          "word": "Río",
+          "filename": "río",
+          "translations": [
+            "נהר"
+          ],
+          "definition": "זרם מים גדול וטבעי הזורם על פני הקרקע, ובדרך כלל נשפך לאוקיינוס, לים, לאגם או לגוף מים גדול אחר."
+        },
+        {
+          "word": "Miel",
+          "filename": "miel",
+          "translations": [
+            "דבש"
+          ],
+          "definition": "חומר מתוק וצמיג המיוצר על ידי דבורים, בעיקר דבורי דבש, מן הצוף של פרחים."
+        },
+        {
+          "word": "Sangre",
+          "filename": "sangre",
+          "translations": [
+            "דם"
+          ],
+          "definition": "הנוזל האדום שמסתובב במערכת הלב וכלי הדם, ומוזרם על ידי הלב."
+        },
+        {
+          "word": "Fuerte",
+          "filename": "fuerte",
+          "translations": [
+            "חזק"
+          ],
+          "definition": "מישהו או משהו בעל עוצמה או כוח פיזי רב."
+        },
+        {
+          "word": "Tiempo",
+          "filename": "tiempo",
+          "translations": [
+            "זמן"
+          ],
+          "definition": "הזרם המתמשך והבלתי מוגדר של הקיום והאירועים."
+        },
+        {
+          "word": "Fuego",
+          "filename": "fuego",
+          "translations": [
+            "אש"
+          ],
+          "definition": "חום ואור בוערים הנוצרים מלהבות."
+        },
+        {
+          "word": "Pueblo",
+          "filename": "pueblo",
+          "translations": [
+            "עיירה",
+            "כפר",
+            "אנשים"
+          ],
+          "definition": "יישוב קטן או מקום מיושב שבו אנשים חיים יחד."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "יסודות היומיום ב",
+      "description": "מילים יסודיות הנפוצות בספרדית יומיומית.",
+      "words": [
+        {
+          "word": "Palabras",
+          "filename": "palabras",
+          "translations": [
+            "מילים"
+          ],
+          "definition": "צורת הרבים של \"palabra\" (מילה). יחידות שפה המשמשות לדיבור או לכתיבה."
+        },
+        {
+          "word": "Flores",
+          "filename": "flores",
+          "translations": [
+            "פרחים",
+            "פרחים מלבלבים"
+          ],
+          "definition": "צורת הרבים של \"flor\" (פרח). חלקי הרבייה של צמח, שלעתים קרובות הם צבעוניים."
+        },
+        {
+          "word": "Corazón",
+          "filename": "corazón",
+          "translations": [
+            "לב"
+          ],
+          "definition": "איבר שרירי הממוקם בחזה ומשמש כמשאבה המרכזית של מערכת הלב וכלי הדם."
+        },
+        {
+          "word": "Ahora",
+          "filename": "ahora",
+          "translations": [
+            "עכשיו"
+          ],
+          "definition": "בזמן הנוכחי או מיד."
+        },
+        {
+          "word": "Paz",
+          "filename": "paz",
+          "translations": [
+            "שלום"
+          ],
+          "definition": "מצב של רוגע ללא מלחמה או לחימה."
+        },
+        {
+          "word": "Voz",
+          "filename": "voz",
+          "translations": [
+            "קול"
+          ],
+          "definition": "הצליל שנוצר בעת דיבור או שירה."
+        },
+        {
+          "word": "Mano",
+          "filename": "mano",
+          "translations": [
+            "יד"
+          ],
+          "definition": "החלק הקיצוני של זרועו של אדם, מעבר לשורש כף היד.",
+          "info": "\"Mano\" הוא שם עצם נקבי ביחיד, אף על פי שהוא מסתיים ב- -o."
+        },
+        {
+          "word": "Siempre",
+          "filename": "siempre",
+          "translations": [
+            "תמיד",
+            "לעולם"
+          ],
+          "definition": "בכל העת או בכל הזדמנות, ללא יוצא מן הכלל.",
+          "info": "תואר פועל של זמן."
+        },
+        {
+          "word": "Color",
+          "filename": "color",
+          "translations": [
+            "צבע"
+          ],
+          "definition": "תפיסות חזותיות של אור המובחנות על פי אורך גל וגוון."
+        },
+        {
+          "word": "Cosas",
+          "filename": "cosas",
+          "translations": [
+            "דברים",
+            "מכל הבא ליד"
+          ],
+          "definition": "צורת הרבים הנקבית של \"cosa\" (דבר). עצמים, פריטים או ישויות כלליות ללא סיווג ספציפי."
+        },
+        {
+          "word": "Padres",
+          "filename": "padres",
+          "translations": [
+            "הורים",
+            "אבות"
+          ],
+          "definition": "אב ואם, או מטפלים, שמביאים ילד לעולם, מאמצים אותו או מגדלים אותו. משמש גם לציון הורים גברים בלבד. צורת הרבים הזכרית של \"padre\" (אב). דוגמאות: \"Mis padres viven cerca\" (ההורים שלי גרים קרוב) | \"La escuela organizó un torneo de fútbol para los padres y sus hijos\" (בית הספר ארגן טורניר כדורגל לאבות ולבנים שלהם)."
+        },
+        {
+          "word": "Nieve",
+          "filename": "nieve",
+          "translations": [
+            "שלג"
+          ],
+          "definition": "משקעים קפואים המורכבים מגבישי קרח הנופלים מן העננים בפתיתים לבנים."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "מדינות ומקומות",
+      "description": "מילים וביטויים הקשורים למקומות ולמיקומים.",
+      "words": [
+        {
+          "word": "Israel",
+          "filename": "israel",
+          "translations": [
+            "ישראל"
+          ],
+          "definition": "מדינה במזרח התיכון."
+        },
+        {
+          "word": "Egipto",
+          "filename": "egipto",
+          "translations": [
+            "מצרים"
+          ],
+          "definition": "מדינה בצפון-מזרח אפריקה."
+        },
+        {
+          "word": "Puerto Rico",
+          "filename": "puertoRico",
+          "translations": [
+            "פוארטו ריקו"
+          ],
+          "definition": "ארכיפלג בצפון-מזרח הים הקריבי.",
+          "info": "פוארטו ריקו היא טריטוריה של ארצות הברית, לא מדינה ריבונית."
+        },
+        {
+          "word": "Desierto",
+          "filename": "desierto",
+          "translations": [
+            "מדבר"
+          ],
+          "definition": "אזור צחיח ושומם עם מעט מאוד משקעים וצמחייה דלה. Example: \"Caminaron por el desierto\" (הם הלכו דרך המדבר)"
+        },
+        {
+          "word": "Por el desierto",
+          "filename": "porElDesierto",
+          "translations": [
+            "דרך המדבר",
+            "דרך השממה"
+          ],
+          "definition": "\"Por\" (דרך, בשביל, על ידי, בגלל) | \"el\" (יידוע זכר יחיד) | \"desierto\" (מדבר/שממה). Example: \"El pueblo vagó por el desierto cuarenta años\" (העם נדד במדבר ארבעים שנה)"
+        },
+        {
+          "word": "Tierra",
+          "filename": "tierra",
+          "translations": [
+            "ארץ",
+            "אדמה",
+            "קרקע",
+            "אדמה"
+          ],
+          "definition": "כדור הארץ, הקרקע, האדמה או הארץ; בהתאם להקשר, המילה יכולה גם לציין אזור או טריטוריה."
+        },
+        {
+          "word": "Tierra ajena",
+          "filename": "tierraAjena",
+          "translations": [
+            "ארץ זרה",
+            "אדמה שאינה שלו"
+          ],
+          "definition": "\"Tierra\" (ארץ) | \"ajena\" (צורת נקבה יחידה של \"ajeno\" - זר, ששייך לאחר). מתייחס לארץ, למקום או למדינה שאינם שלו. Example: \"Vive en tierra ajena\" (הוא חי בארץ זרה)"
+        },
+        {
+          "word": "Tierra buena",
+          "filename": "tierraBuena",
+          "translations": [
+            "אדמה טובה",
+            "אדמה פורייה"
+          ],
+          "definition": "\"Tierra\" (ארץ/אדמה) | \"buena\" (צורת נקבה יחידה של \"bueno\" - טוב). קרקע או טריטוריה פורייה ועשירה בחומרי הזנה, המתאימה לחקלאות, לעיבוד ולהצמחת גידולים. Example: \"Es una tierra buena para sembrar\" (זוהי אדמה טובה לזריעה)"
+        },
+        {
+          "word": "Tierra santa",
+          "filename": "tierraSanta",
+          "translations": [
+            "ארץ הקודש",
+            "הארץ הקדושה"
+          ],
+          "definition": "\"Tierra\" (ארץ) | \"santa\" (צורת נקבה יחידה של \"santo\" - קדוש). טריטוריה הנחשבת לקדושה."
+        },
+        {
+          "word": "Campo",
+          "filename": "campo",
+          "translations": [
+            "אזור כפרי",
+            "שדה",
+            "שטח פתוח"
+          ],
+          "definition": "שטח פתוח מחוץ לעיירות ולערים; המונח משמש לעיתים קרובות כדי לציין אדמות חקלאיות, מרעה או אזורים כפריים. Example: \"Los pastores estaban en el campo\" (הרועים היו בכפר)"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "מספרים ומדעי הרוח",
+      "description": "מילים למספרים יסודיים לצד תחומי מפתח של המחשבה והתרבות האנושית.",
+      "words": [
+        {
+          "word": "Tres",
+          "filename": "3",
+          "translations": [
+            "שלוש"
+          ],
+          "definition": "המספר היסודי המייצג כמות של שלוש יחידות."
+        },
+        {
+          "word": "Cuatro",
+          "filename": "4",
+          "translations": [
+            "ארבע"
+          ],
+          "definition": "המספר היסודי המייצג כמות של ארבע יחידות."
+        },
+        {
+          "word": "Siete",
+          "filename": "7",
+          "translations": [
+            "שבע"
+          ],
+          "definition": "המספר היסודי המייצג כמות של שבע יחידות."
+        },
+        {
+          "word": "Quince",
+          "filename": "15",
+          "translations": [
+            "חמש עשרה"
+          ],
+          "definition": "המספר היסודי המייצג כמות של חמש עשרה יחידות."
+        },
+        {
+          "word": "Veintiuno",
+          "filename": "21",
+          "translations": [
+            "עשרים ואחת"
+          ],
+          "definition": "המספר היסודי המייצג כמות של עשרים ואחת יחידות."
+        },
+        {
+          "word": "Ochenta y tres",
+          "filename": "83",
+          "translations": [
+            "שמונים ושלוש"
+          ],
+          "definition": "המספר היסודי המייצג כמות של שמונים ושלוש יחידות."
+        },
+        {
+          "word": "Filosofía",
+          "filename": "filosofía",
+          "translations": [
+            "פילוסופיה"
+          ],
+          "definition": "המחקר של רעיונות יסוד, ידע והקיום."
+        },
+        {
+          "word": "Poesía",
+          "filename": "poesía",
+          "translations": [
+            "שירה"
+          ],
+          "definition": "כתיבה המשתמשת בקצב, צליל והבעה מדויקים."
+        },
+        {
+          "word": "Teología",
+          "filename": "teología",
+          "translations": [
+            "תאולוגיה"
+          ],
+          "definition": "המחקר של אמונה דתית, פולחן וחוויה דתית."
+        },
+        {
+          "word": "Historia",
+          "filename": "historia",
+          "translations": [
+            "היסטוריה",
+            "סיפור"
+          ],
+          "definition": "תיעוד או תיאור של אירועים מן העבר."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "בסיסית בספרדית",
+      "description": "מילים וביטויים נפוצים בספרדית.",
+      "words": [
+        {
+          "word": "Ajena",
+          "filename": "ajena",
+          "translations": [
+            "של מישהו אחר",
+            "זרה",
+            "חיצונית"
+          ],
+          "definition": "צורה נקבית יחיד של \"ajeno\" (של מישהו אחר), המתארת משהו ששייך לאדם אחר או שאינו של האדם עצמו.",
+          "info": "זכר יחיד: \"ajeno\"; זכר רבים: \"ajenos\"; נקבה רבים: \"ajenas\"."
+        },
+        {
+          "word": "Antigua",
+          "filename": "antigua",
+          "translations": [
+            "ישנה",
+            "עתיקה",
+            "לשעבר"
+          ],
+          "definition": "צורה נקבית יחיד של \"antiguo\" (ישן), המתארת משהו מן העבר.",
+          "info": "זכר יחיד: \"antiguo\"; זכר רבים: \"antiguos\"; נקבה רבים: \"antiguas\"."
+        },
+        {
+          "word": "Barro",
+          "filename": "barro",
+          "translations": [
+            "בוץ",
+            "בוצה",
+            "חמר"
+          ],
+          "definition": "אדמה רטובה או עפר המעורב במים. הוא גם מתייחס לחומר אדמתי המשמש לייצור כלי חרס, לבנים וקרמיקה."
+        },
+        {
+          "word": "Cabeza",
+          "filename": "cabeza",
+          "translations": [
+            "ראש"
+          ],
+          "definition": "החלק בגוף שמעל הצוואר, הכולל את המוח, העיניים, האוזניים, האף והפה."
+        },
+        {
+          "word": "Callar",
+          "filename": "callar",
+          "translations": [
+            "לשתוק",
+            "להשתיק",
+            "לשמור על שתיקה"
+          ],
+          "definition": "להפסיק לדבר או לגרום למישהו אחר להפסיק לדבר."
+        },
+        {
+          "word": "Camino",
+          "filename": "camino",
+          "translations": [
+            "דרך",
+            "שביל",
+            "נתיב"
+          ],
+          "definition": "מסלול או שביל המשמש לנסיעה ממקום אחד לאחר."
+        },
+        {
+          "word": "Cargas",
+          "filename": "cargas",
+          "translations": [
+            "מטענים",
+            "משאות",
+            "עומסים"
+          ],
+          "definition": "צורת הרבים של \"carga\" (מטען, משא או נטל). היא מתייחסת לכמה משקלים פיזיים, משלוחים המועברים, או אחריות מכבידה הנישאת על הגב.",
+          "info": "השם העצם הנקבי \"carga\" חולק שורש אטימולוגי עם השם העצם הזכרי \"cargo\" (שניהם נגזרים מן הפועל \"cargar\" - להעמיס). אבל בעוד \"cargo\" יכול לציין גם תפקיד, משרה או חיוב כספי, \"carga\" מתייחס ספציפית למשאות פיזיים, משלוחים או נטל."
+        },
+        {
+          "word": "Colores brillantes",
+          "filename": "coloresBrillantes",
+          "translations": [
+            "צבעים בהירים",
+            "צבעים חיים"
+          ],
+          "definition": "\"Colores\" (צורת הרבים של \"color\" - צבע) | \"brillantes\" (צורת הרבים של \"brillante\" - בהיר, אשר בלשון יחיד אינו מסומן במין ומקבל סיומת -es ברבים). מתייחס לצבעים בולטים, חיים או קלים להבחנה.",
+          "info": "המילה הספרדית \"color\" היא זכרית מבחינה דקדוקית ואין לה צורה נקבית. \"Brillante\" היא תואר שצורתו זהה בזכר ובנקבה ביחיד. שתי המילים משנות את צורתן רק כדי לציין מספר (יחיד או רבים), לא מין."
+        },
+        {
+          "word": "Clamor",
+          "filename": "clamor",
+          "translations": [
+            "זעקה",
+            "מחאה",
+            "צעקה"
+          ],
+          "definition": "קריאה רמה, זעקה או הבעה דחופה של רגש חזק."
+        },
+        {
+          "word": "En general",
+          "filename": "enGeneral",
+          "translations": [
+            "בדרך כלל",
+            "באופן כללי"
+          ],
+          "definition": "\"En\" (ב) | \"general\" (כללי). ביטוי המשמש לתיאור דבר כנכון ברוב המקרים."
+        },
+        {
+          "word": "Entonces",
+          "filename": "entonces",
+          "translations": [
+            "אז",
+            "לכן",
+            "באותה עת"
+          ],
+          "definition": "תואר פועל המשמש לציון תוצאה, התקדמות בזמן (אז, באותה עת), או כמילת קישור בשיחה (לכן, במקרה כזה)."
+        },
+        {
+          "word": "Por cierto",
+          "filename": "porCierto",
+          "translations": [
+            "אגב"
+          ],
+          "definition": "\"Por\" (ב, עבור, דרך, בגלל) | \"cierto\" (מסוים, בטוח, נכון). ביטוי המשמש להוספת מחשבה נוספת או להצגת נקודה קשורה.",
+          "info": "אל תבלבלו בין הביטוי הזה לבין \"por supuesto\" (כמובן). \"Por cierto\" משמש למעבר למחשבה צדדית או להסטה קלה של הנושא, בעוד \"por supuesto\" משמש להביע הסכמה חזקה או לאשר משהו בוודאות."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "תפקידים ויחסים",
+      "description": "מילים וביטויים על קשרי משפחה, תפקידים חברתיים וביטויים קשורים.",
+      "words": [
+        {
+          "word": "Con su familia",
+          "filename": "conSuFamilia",
+          "translations": [
+            "עם המשפחה שלהם",
+            "עם המשפחה שלו",
+            "עם המשפחה שלה"
+          ],
+          "definition": "\"Con\" (עם) | \"su\" (שלו, שלה, שלהם, שלך) | \"familia\" (משפחה). משמש לתיאור היותו יחד עם קבוצת משפחה.",
+          "info": "\"Su\" הוא כינוי קניין ניטרלי מבחינת מין, שיכול לציין שלו, שלה, שלהם או שלך, הן בצורת היחיד (usted) והן בצורת הרבים הפורמלית (ustedes)."
+        },
+        {
+          "word": "Sus hermanos",
+          "filename": "susHermanos",
+          "translations": [
+            "האחים שלו",
+            "האחים שלה",
+            "האחים שלהם",
+            "האחים שלך"
+          ],
+          "definition": "\"Sus\" (שלו, שלה, שלהם או שלך) | \"hermanos\" (אחים, אחים ואחיות). מתייחס לאחים הזכרים של אדם או לאחים ואחיות בכלל.",
+          "info": "\"Sus\" הוא כינוי קניין ניטרלי מבחינת מין, שיכול לציין שלו, שלה, שלהם או שלך, הן בצורת היחיד (usted) והן בצורת הרבים הפורמלית (ustedes), ומשמש רק עם שמות עצם ברבים או עם כמה פריטים שבבעלות."
+        },
+        {
+          "word": "Señor",
+          "filename": "señor",
+          "translations": [
+            "אדון",
+            "מר"
+          ],
+          "definition": "תואר כבוד המשמש לפנייה אל גבר או להתייחסות אליו.",
+          "info": "זכר רבים: \"señores\"; המקבילה הנקבית: \"señora\"."
+        },
+        {
+          "word": "Mujer española",
+          "filename": "mujerEspañola",
+          "translations": [
+            "אישה ספרדייה"
+          ],
+          "definition": "\"Mujer\" (אישה) | \"española\" (צורת הנקבה היחיד של \"español\" - ספרדי). אישה שמקורה בספרד או קשורה לזהות ספרדית."
+        },
+        {
+          "word": "Rey",
+          "filename": "rey",
+          "translations": [
+            "מלך"
+          ],
+          "definition": "שליט ריבוני זכר של מדינה עצמאית."
+        },
+        {
+          "word": "La reina",
+          "filename": "laReina",
+          "translations": [
+            "המלכה"
+          ],
+          "definition": "\"La\" (הנקבה היחיד \"ה\") | \"reina\" (מלכה). שליטה ריבונית נקבה של מדינה עצמאית או אשתו של מלך."
+        },
+        {
+          "word": "Las labores",
+          "filename": "lasLabores",
+          "translations": [
+            "המשימות",
+            "העבודות הבית",
+            "העבודות"
+          ],
+          "definition": "\"Las\" (הנקבה הרבים \"ה\") | \"labores\" (צורת הרבים של \"labor\" - משימה). עבודה, חובות או פעילויות שצריך לבצע.",
+          "info": "למרות שרוב השמות העצם הספרדיים המסתיימים ב-\"-or\" הם זכריים, \"labor\" היא נקבית ואין לה צורה זכרית."
+        },
+        {
+          "word": "Trabajo expuesto",
+          "filename": "trabajoExpuesto",
+          "translations": [
+            "עבודה חשופה",
+            "עבודה מוצגת"
+          ],
+          "definition": "\"Trabajo\" (עבודה, משרה) | \"expuesto\" (צורת העבר הסבילה הזכרית היחיד של \"exponer\" - להציג). עבודה שמוצגת, מונחת לעין, או נשארת בלי כיסוי."
+        },
+        {
+          "word": "Resultó menguado",
+          "filename": "resultóMenguado",
+          "translations": [
+            "התברר כמועט",
+            "בסופו של דבר הצטמצם"
+          ],
+          "definition": "\"Resultó\" (צורת עבר יחיד של \"resultar\" - להתברר, לצאת, להוכיח את עצמו) | \"menguado\" (מועט, מצומצם). מתאר משהו שהתברר כקטן יותר, חלש יותר או פחות מן הצפוי."
+        },
+        {
+          "word": "Triste resultado",
+          "filename": "tristeResultado",
+          "translations": [
+            "תוצאה עצובה",
+            "תוצאה מאכזבת"
+          ],
+          "definition": "\"Triste\" (עצוב) | \"resultado\" (תוצאה, תוצר). תוצאה לא מוצלחת או מאכזבת.",
+          "info": "כמו כל התארים הספרדיים המסתיימים ב-\"-e\", גם \"triste\" משנה את צורתו רק כדי לציין מספר (יחיד או רבים), לא מין."
+        },
+        {
+          "word": "Vaya de la tierra",
+          "filename": "vayaDeLaTierra",
+          "translations": [
+            "שילך מן הארץ",
+            "שמי שהוא יעזוב את הארץ"
+          ],
+          "definition": "\"Vaya\" (צורת סובחונטיב או ציווי רשמי של \"ir\" - ללכת) | \"de\" (מ, של) | \"la\" (הנקבה היחיד \"ה\") | \"tierra\" (ארץ, אדמה, קרקע, קרקע). ביטוי על עזיבה או הליכה ממקום או מארץ."
+        },
+        {
+          "word": "Servidumbre",
+          "filename": "servidumbre",
+          "translations": [
+            "שעבוד",
+            "שירות",
+            "צוות משרתים"
+          ],
+          "definition": "מצב של כפיפות לשליטה או לשירות כפוי, או קבוצת המשרתים בבית."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "זמן, התקדמות ורצף",
+      "description": "מילים וצורות הקשורות לזמן, לרצף, למשך ולשינוי מתמשך.",
+      "words": [
+        {
+          "word": "Febrero",
+          "filename": "febrero",
+          "translations": [
+            "פברואר"
+          ],
+          "definition": "החודש השני של השנה בלוח הגרגוריאני, הבא אחרי ינואר ולפני מרץ."
+        },
+        {
+          "word": "Primero de febrero",
+          "filename": "primeroDeFebrero",
+          "translations": [
+            "1 בפברואר",
+            "הראשון בפברואר"
+          ],
+          "definition": "\"Primero\" (ראשון) | \"de\" (של, מ) | \"febrero\" (פברואר). ביטוי תאריך בלוח שנה המתייחס ליום הראשון של פברואר."
+        },
+        {
+          "word": "Octubre",
+          "filename": "octubre",
+          "translations": [
+            "אוקטובר"
+          ],
+          "definition": "החודש העשירי של השנה בלוח הגרגוריאני, הבא אחרי ספטמבר ולפני נובמבר."
+        },
+        {
+          "word": "Poco tiempo",
+          "filename": "pocoTiempo",
+          "translations": [
+            "זמן קצר",
+            "זמן מה",
+            "משך קצר"
+          ],
+          "definition": "\"Poco\" (מעט, קצר) | \"tiempo\" (זמן). פרק זמן קצר או משך קצר."
+        },
+        {
+          "word": "Progreso",
+          "filename": "progreso",
+          "translations": [
+            "התקדמות",
+            "קידום"
+          ],
+          "definition": "תנועה קדימה, התפתחות או שיפור לעבר יעד או מטרה לאורך זמן."
+        },
+        {
+          "word": "Aumentados",
+          "filename": "aumentados",
+          "translations": [
+            "הוגדלו",
+            "גדלו",
+            "הועלו"
+          ],
+          "definition": "צורת העבר המושלם בזכר רבים של \"aumentar\" (להגדיל). נעשו גדולים יותר בכמות, בגודל או במספר."
+        },
+        {
+          "word": "Crecían",
+          "filename": "crecían",
+          "translations": [
+            "גדלו",
+            "היו גדלים"
+          ],
+          "definition": "צורת העבר המתמשך של \"crecer\" (לגדול), המתארת גידול, התפתחות או צמיחה מתמשכת בעבר."
+        },
+        {
+          "word": "Consumía",
+          "filename": "consumía",
+          "translations": [
+            "צרך",
+            "היה צורך"
+          ],
+          "definition": "צורת העבר המתמשך (אימפרפקטו) של \"consumir\" (לצרוך, לכלות), המתארת פעולה שהייתה בעיצומה או משהו שנעשה בו שימוש עד תום בעבר."
+        },
+        {
+          "word": "Generación",
+          "filename": "generación",
+          "translations": [
+            "דור"
+          ],
+          "definition": "כל האנשים שנולדו וחיו בערך באותו זמן, הנחשבים יחד, או הפעולה של יצירת משהו."
+        },
+        {
+          "word": "También",
+          "filename": "también",
+          "translations": [
+            "גם",
+            "נוסף על כך",
+            "כמו כן"
+          ],
+          "definition": "תואר פועל המשמש להוספת פריט נוסף, לכלול מידע נוסף או להראות הסכמה עם מה שנאמר קודם."
+        },
+        {
+          "word": "Postrera",
+          "filename": "postrera",
+          "translations": [
+            "אחרונה",
+            "סופית",
+            "מאוחרת ביותר"
+          ],
+          "definition": "צורת הנקבה היחיד של \"postrero\" (אחרון). מתארת את המרכיב או האדם האחרון ברצף או בסדרה.",
+          "info": "זכר יחיד: \"postrero\"; זכר רבים: \"postreros\"; נקבה רבים: \"postreras\"."
+        },
+        {
+          "word": "Fin",
+          "filename": "fin",
+          "translations": [
+            "סוף",
+            "סיום",
+            "השלמה"
+          ],
+          "definition": "הנקודה הסופית, המסקנה או החלק האחרון של משהו."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "אנשים וחפצים",
+      "description": "מילים וצורות הקשורות לאנשים, תפקידים, קבוצות וחפצים או חומרים פיזיים נפוצים.",
+      "words": [
+        {
+          "word": "Prójimo",
+          "filename": "prójimo",
+          "translations": [
+            "שכן",
+            "אדם קרוב",
+            "אדם מן היישוב"
+          ],
+          "definition": "אדם הקרוב לאדם אחר במובן האנושי או המוסרי; הזולת."
+        },
+        {
+          "word": "Suegro",
+          "filename": "suegro",
+          "translations": [
+            "חם"
+          ],
+          "definition": "אביו של בן או בת הזוג."
+        },
+        {
+          "word": "Pastores",
+          "filename": "pastores",
+          "translations": [
+            "רועים",
+            "כמרים"
+          ],
+          "definition": "צורת הרבים הזכרית של \"pastor\" (רועה). אנשים המטפלים בכבשים, או מנהיגים דתיים בהקשרים מסוימים."
+        },
+        {
+          "word": "Parteras",
+          "filename": "parteras",
+          "translations": [
+            "מיילדות"
+          ],
+          "definition": "צורת הרבים הנקבית של \"partera\" (מיילדת). נשים המסייעות בלידה.",
+          "info": "באופן מסורתי זהו מקצוע נשי ברובו, ולכן הצורה הנקבית היא הסטנדרט, אף כי הצורה הזכרית \"partero\" אפשרית מבחינה דקדוקית עבור מיילד גבר."
+        },
+        {
+          "word": "Varón",
+          "filename": "varón",
+          "translations": [
+            "גבר",
+            "זכר"
+          ],
+          "definition": "אדם בוגר ממין זכר, או בן אדם זכר.",
+          "info": "\"Varón\" פירושו במפורש זכר אנושי. אף שקיימת צורה נקבית ארכאית וכמעט שאינה בשימוש, בספרדית מודרנית משתמשים ב-\"mujer\" כצורה המקבילה הסטנדרטית לציון נקבה."
+        },
+        {
+          "word": "Vestidos",
+          "filename": "vestidos",
+          "translations": [
+            "שמלות",
+            "בגדים",
+            "לבוש"
+          ],
+          "definition": "צורת הרבים הזכרית של \"vestido\" (שמלה, בגד). פריטי לבוש הנלבשים כדי לכסות את הגוף. דוגמאות: \"Mis vestidos favoritos están en el armario\" (השמלות האהובות עליי נמצאות בארון [הווה/אמירה כללית]) | \"Ella está vestida para la ocasión\" (היא לבושה לאירוע [התייחסות לפעולה בעבר]).",
+          "info": "הצורה הזכרית \"vestido\" משמשת כשם עצם לציון בגד, בעוד שהצורה הנקבית \"vestida\" מרמזת על פעולה בעבר (לבושה, מלובשת)."
+        },
+        {
+          "word": "Voluntario",
+          "filename": "voluntario",
+          "translations": [
+            "מתנדב"
+          ],
+          "definition": "אדם הפועל מתוך בחירה חופשית ולא מתוך כפייה."
+        },
+        {
+          "word": "Vosotros",
+          "filename": "vosotros",
+          "translations": [
+            "אתם",
+            "כולכם"
+          ],
+          "definition": "כינוי הגוף ברבים הלא-פורמלי המשמש כשפונים ליותר מאדם אחד."
+        },
+        {
+          "word": "Ladrillo",
+          "filename": "ladrillo",
+          "translations": [
+            "לבנה"
+          ],
+          "definition": "גוש מלבני של חמר אפוי או חומר דומה המשמש בבנייה."
+        },
+        {
+          "word": "Fibra",
+          "filename": "fibra",
+          "translations": [
+            "סיב"
+          ],
+          "definition": "גדיל דק דמוי חוט, בייחוד כזה שהוא חלק מרקמה, מחומר או מטקסטיל."
+        },
+        {
+          "word": "Vara",
+          "filename": "vara",
+          "translations": [
+            "מוט",
+            "מטה",
+            "מקל"
+          ],
+          "definition": "מקל ארוך ודק, המשמש לעיתים כתמיכה, ככלי או כאמצעי מדידה."
+        },
+        {
+          "word": "Mesas",
+          "filename": "mesas",
+          "translations": [
+            "שולחנות"
+          ],
+          "definition": "צורת הרבים של \"mesa\" (שולחן). רהיטים בעלי משטח עליון שטוח, המשמשים לאכילה, לעבודה או להנחת חפצים.",
+          "info": "הצורה הזכרית של המילה הזו אינה קיימת."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "אירועים ופעולות",
+      "description": "מילים הקשורות לפעולות, וכן לאירועים שהושלמו, שיתרחשו בעתיד, או שמתרחשים כעת.",
+      "words": [
+        {
+          "word": "Conseguido",
+          "filename": "conseguido",
+          "translations": [
+            "הושג",
+            "נמצא",
+            "הצליח"
+          ],
+          "definition": "הצורה השלמה בעבר של \"conseguir\" (להשיג, להשיג). מתאר משהו שכבר הושג, הגעו אליו, או הושלם בהצלחה."
+        },
+        {
+          "word": "Creerán",
+          "filename": "creerán",
+          "translations": [
+            "הם יאמינו",
+            "הם יחשבו"
+          ],
+          "definition": "צורת העתיד של \"creer\" (להאמין, לחשוב) עבור \"ellos\" (הם). מתייחסת לאמונה או מחשבה שתתרחש מאוחר יותר או בעתיד."
+        },
+        {
+          "word": "Críamelo",
+          "filename": "críamelo",
+          "translations": [
+            "גדל אותו בשבילי"
+          ],
+          "definition": "\"Cría\" (ציווי של \"criar\" - לגדל או לחנך) + \"me\" (בשבילי, לי) + \"lo\" (אותו, את זה). ציווי משולב שמורה למישהו לגדל או להניק ילד בשמו של הדובר.",
+          "info": "המונח הזה מופיע בשמות ב׳:ט, כאשר בת פרעה מגלה את התינוק משה מוסתר בתיבה בין הקנים. מתוך רחמים על התינוק הבוכה, היא מחזירה אותו לאמו הביולוגית (ששימשה כמינקת עברייה סמויה) ואומרת: \"קחי את הילד הזה וגדלי אותו בשבילי, ואני אשלם לך\"."
+        },
+        {
+          "word": "Dijo",
+          "filename": "dijo",
+          "translations": [
+            "הוא אמר",
+            "היא אמרה",
+            "הוא סיפר",
+            "היא סיפרה"
+          ],
+          "definition": "הצורה היחידית בזמן עבר של \"decir\" (לומר, לספר) עבור \"él\" (הוא) או \"ella\" (היא). מתייחסת למעשה דיבור או אמירה שהושלם בעבר. דוגמה: \"Dijo que vendría\" (הוא/היא אמר/ה שהוא/היא יבוא/תבוא).",
+          "info": "\"Dijo\" היא צורת עבר בגוף שלישי יחיד. עבר מושלם בגוף ראשון יחיד: \"dije\"; עבר מושלם בגוף שני יחיד לא רשמי (tú): \"dijiste\"; עבר מושלם בגוף שלישי רבים: \"dijeron\"."
+        },
+        {
+          "word": "Dicho",
+          "filename": "dicho",
+          "translations": [
+            "נאמר",
+            "דובר",
+            "סופר"
+          ],
+          "definition": "הצורה השלמה בעבר של \"decir\" (לומר, לספר). מתאר משהו שכבר נאמר או דובר. דוגמה: \"Lo dicho\" (מה שנאמר).",
+          "info": "\"Dicho\" משמשת בדרך כלל כדי להתייחס בחזרה לדברים או להצהרות שנאמרו קודם לכן."
+        },
+        {
+          "word": "Diciendo",
+          "filename": "diciendo",
+          "translations": [
+            "אומר",
+            "מספר",
+            "מדבר"
+          ],
+          "definition": "הצורה המתמשכת של \"decir\" (לומר, לספר). מתאר דיבור או אמירה שמתרחשים באותו רגע. דוגמה: \"Está diciendo la verdad\" (הוא/היא אומר/ת את האמת)."
+        },
+        {
+          "word": "Enumerar",
+          "filename": "enumerar",
+          "translations": [
+            "למנות"
+          ],
+          "definition": "לציין דברים אחד אחד לפי סדר."
+        },
+        {
+          "word": "Miró",
+          "filename": "miró",
+          "translations": [
+            "הביט",
+            "צפה",
+            "ראה"
+          ],
+          "definition": "הצורה היחידית בזמן עבר של \"mirar\" (להביט, לצפות) עבור \"él\" (הוא) או \"ella\" (היא). מתייחסת למעשה הסתכלות או צפייה שהושלם בעבר. דוגמה: \"Miró al cielo\" (הוא/היא הביט/ה לשמים)."
+        },
+        {
+          "word": "Parecía",
+          "filename": "parecía",
+          "translations": [
+            "נראה",
+            "היה נדמה",
+            "היה נראה"
+          ],
+          "definition": "הצורה המתמשכת בעבר של \"parecer\" (להיראות, להידמות) עבור \"él\" (הוא) או \"ella\" (היא). מתארת משהו שיצר רושם מסוים במשך פרק זמן בעבר. דוגמה: \"Parecía cansado\" (הוא נראה עייף)."
+        },
+        {
+          "word": "Respondió",
+          "filename": "respondió",
+          "translations": [
+            "ענה",
+            "השיב"
+          ],
+          "definition": "הצורה היחידית בזמן עבר של \"responder\" (לענות, להשיב) עבור \"él\" (הוא) או \"ella\" (היא). מתייחסת למענה או לתגובה שהושלמו בעבר. דוגמה: \"Respondió a la pregunta\" (הוא/היא ענה/ה על השאלה)."
+        },
+        {
+          "word": "Sacó",
+          "filename": "sacó",
+          "translations": [
+            "הוציא",
+            "שלף",
+            "משך החוצה"
+          ],
+          "definition": "הצורה היחידית בזמן עבר של \"sacar\" (להוציא, לשלוף) עבור \"él\" (הוא) או \"ella\" (היא). מתייחסת למעשה של הוצאה או הוצאה החוצה שהושלם. דוגמה: \"Sacó el libro de la bolsa\" (הוא/היא הוציא/ה את הספר מהתיק)."
+        },
+        {
+          "word": "Recordar",
+          "filename": "recordar",
+          "translations": [
+            "לזכור",
+            "להיזכר",
+            "להזכיר"
+          ],
+          "definition": "להחזיר משהו אל הזיכרון או לשמור אותו בזיכרון. זה יכול גם להתייחס לעזרה למישהו אחר לזכור משהו. דוגמה: \"Recordar una fecha\" (לזכור תאריך)."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "ביטויים ומצבים מופשטים",
+      "description": "מילים וביטויים הקשורים לתכונות, מצבים ורעיונות מופשטים.",
+      "words": [
+        {
+          "word": "Acertadas",
+          "filename": "acertadas",
+          "translations": [
+            "נכונות",
+            "מתאימות",
+            "מדויקות"
+          ],
+          "definition": "צורת הרבים הנקבית של \"acertado\" (נכון, מתאים, מדויק). מתארת דברים שהם נכונים, שנבחרו היטב או שמתאימים.",
+          "info": "יחיד זכר: \"acertado\"; יחיד נקבה: \"acertada\"; רבים זכר: \"acertados\"."
+        },
+        {
+          "word": "Correspondencias",
+          "filename": "correspondencias",
+          "translations": [
+            "התאמות",
+            "זיקות",
+            "קשרים"
+          ],
+          "definition": "צורת הרבים של \"correspondencia\" (התאמה, זיקה, התכתבות). מתייחסת ליחסים, להתאמות או למסרים שמוחלפים בין אנשים או מקומות.",
+          "info": "המילה הספרדית \"correspondencia\" היא נקבית מבחינה דקדוקית ואין לה צורת זכר."
+        },
+        {
+          "word": "Escondido",
+          "filename": "escondido",
+          "translations": [
+            "מוסתר",
+            "מוסווה",
+            "סודי"
+          ],
+          "definition": "הצורה השלמה בעבר של הזכר היחיד של \"esconder\" (להסתיר, להחביא). מתאר משהו שאינו גלוי או שנשמר מחוץ לטווח הראייה.",
+          "info": "יחיד נקבה: \"escondida\"; רבים זכר: \"escondidos\"; רבים נקבה: \"escondidas\"."
+        },
+        {
+          "word": "Ventajosamente",
+          "filename": "ventajosamente",
+          "translations": [
+            "באופן מועיל",
+            "באופן מיטיב",
+            "באופן רווחי"
+          ],
+          "definition": "מתאר פעולה שמביאה תועלת או יתרון."
+        },
+        {
+          "word": "Pericia",
+          "filename": "pericia",
+          "translations": [
+            "מיומנות",
+            "מומחיות",
+            "בקיאות"
+          ],
+          "definition": "יכולת מיוחדת או מיומנות נרכשת לעשות משהו היטב, במיוחד בזכות ניסיון או ידע."
+        },
+        {
+          "word": "Preeminencia",
+          "filename": "preeminencia",
+          "translations": [
+            "בכורה",
+            "עליונות",
+            "בולטות"
+          ],
+          "definition": "מצב של הימצאות מעל אחרים בדרגה, בחשיבות או במצוינות."
+        },
+        {
+          "word": "Primorosos",
+          "filename": "primorosos",
+          "translations": [
+            "מהודרים",
+            "יפים",
+            "עשויים בעדינות"
+          ],
+          "definition": "צורת הרבים הזכרית של \"primoroso\" (מהודר, מעודן). מתארת דברים שנעשו בזהירות רבה, בעדינות או ביופי.",
+          "info": "יחיד זכר: \"primoroso\"; יחיד נקבה: \"primorosa\"; רבים נקבה: \"primorosas\"."
+        },
+        {
+          "word": "Miedo",
+          "filename": "miedo",
+          "translations": [
+            "פחד",
+            "אימה",
+            "חרדה"
+          ],
+          "definition": "רגש עז ולא נעים שנגרם מתחושת סכנה, איום או נזק — בין אם הם אמיתיים ובין אם מדומיינים."
+        },
+        {
+          "word": "Muerte",
+          "filename": "muerte",
+          "translations": [
+            "מוות"
+          ],
+          "definition": "הסיום הקבוע של כל תפקודי החיים באדם, בעל חיים או צמח."
+        },
+        {
+          "word": "Protestas",
+          "filename": "protestas",
+          "translations": [
+            "מחאות",
+            "התנגדויות",
+            "דרישות"
+          ],
+          "definition": "צורת הרבים של \"protesta\" (מחאה, הפגנה). ביטויים של אי-הסכמה, תלונה או התנגדות פומבית.",
+          "info": "המילה הספרדית \"protesta\" מתייחסת לאירוע או לפעולה, ולא לבן אדם."
+        },
+        {
+          "word": "Público",
+          "filename": "público",
+          "translations": [
+            "ציבורי",
+            "קהל"
+          ],
+          "definition": "האנשים בכלל, או הקהל הנוכח באירוע."
+        },
+        {
+          "word": "Servicio",
+          "filename": "servicio",
+          "translations": [
+            "שירות",
+            "עזרה",
+            "תפקיד"
+          ],
+          "definition": "פעולה מסייעת, עבודה שנעשית למען אחרים, או מערכת מאורגנת המספקת תמיכה או סיוע."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "זהות ויחסים",
+      "description": "מילים וביטויים על אנשים, תכונות אישיות, זהות ויחסים.",
+      "words": [
+        {
+          "word": "Apasionados",
+          "filename": "apasionados",
+          "translations": [
+            "נלהבים",
+            "תשוקתיים"
+          ],
+          "definition": "צורת הרבים הזכרית של \"apasionado\" (נלהב, מלא תשוקה). מתארת אנשים בעלי רגשות חזקים, התלהבות או עוצמה.",
+          "note": "משמש לקבוצות של גברים או לקבוצות מעורבות."
+        },
+        {
+          "word": "Ignorantes",
+          "filename": "ignorantes",
+          "translations": [
+            "בור",
+            "לא מודע"
+          ],
+          "definition": "צורת הרבים של \"ignorante\". מתארת אנשים שחסרים ידע, מודעות או מידע."
+        },
+        {
+          "word": "Interesadas",
+          "filename": "interesadas",
+          "translations": [
+            "מתעניינות",
+            "סקרניות",
+            "מעורבות"
+          ],
+          "definition": "צורת הרבים הנקבית של \"interesado\" (מתעניין). מתארת נשים או קבוצות נקביות שמראות סקרנות, תשומת לב או מעורבות."
+        },
+        {
+          "word": "Exactores",
+          "filename": "exactores",
+          "translations": [
+            "גובהי מס",
+            "גובים"
+          ],
+          "definition": "צורת הרבים של \"exactor\" (גובה מס). מתייחסת לאנשים שגובים כסף או תשלומים, במיוחד מיסים או דמי חובה."
+        },
+        {
+          "word": "Jehová",
+          "filename": "jehová",
+          "translations": [
+            "יהוה"
+          ],
+          "definition": "שם פרטי של אלוהים בהקשר דתי.",
+          "info": "בעוד שהמילה הכללית הרגילה שבה משתמשים בספרדית כדי להתייחס לאלוהים היא \"Dios\", המילה \"Jehová\" היא שם פרטי ספציפי ואישי, שמקורו בטטרגרמטון העברי \"יהוה\"."
+        },
+        {
+          "word": "Vigilante",
+          "filename": "vigilante",
+          "translations": [
+            "שומר",
+            "מאבטח",
+            "משגיח"
+          ],
+          "definition": "נגזר מהפועל \"vigilar\" (לעקוב, להשגיח). מתייחס לאדם שמשגיח, שומר או מפקח על משהו במסגרת חוקית, רשמית או מורשית.",
+          "info": "אזהרת False friend: בספרדית, \"vigilante\" מתייחס אך ורק לשומר אבטחה חוקי, לשומר או למפקח רשמי. באנגלית, לעומת זאת, vigilante מציין מי שלוקח את החוק לידיים כדי להעניש פושעים מחוץ למערכת החוקית."
+        },
+        {
+          "word": "Primogénito",
+          "filename": "primogénito",
+          "translations": [
+            "בכור"
+          ],
+          "definition": "אדם המוגדר לפי סדר הלידה, ובפרט הילד הראשון שנולד."
+        },
+        {
+          "word": "Siete hijas",
+          "filename": "sieteHijas",
+          "translations": [
+            "שבע בנות"
+          ],
+          "definition": "ביטוי משפחתי המתייחס לשבע בנות."
+        },
+        {
+          "word": "Contigo",
+          "filename": "contigo",
+          "translations": [
+            "איתך"
+          ],
+          "definition": "ביטוי המשמש כדי לבטא קשר או אינטראקציה עם אדם אחר."
+        },
+        {
+          "word": "Mi nombre",
+          "filename": "miNombre",
+          "translations": [
+            "השם שלי"
+          ],
+          "definition": "סמן זהות המשמש להתייחסות עצמית או לזיהוי עצמי."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "ישויות ומבנים",
+      "description": "מילים הקשורות למבנים פיזיים, חפצים מוחשיים וישויות ארגוניות.",
+      "words": [
+        {
+          "word": "Institutos",
+          "filename": "institutos",
+          "translations": [
+            "מוסדות"
+          ],
+          "definition": "הצורה הזכרית ברבים של \"instituto\" (מוסד). עמודי תווך חברתיים, מדעיים או חינוכיים בני-קיימא, המשולבים עמוק בחיים הציבוריים ובאמון הקולקטיבי, ופועלים כמסגרות מבניות קבועות ולא כגופים מנהליים חד-פעמיים או קצרי-ימים."
+        },
+        {
+          "word": "Edificio",
+          "filename": "edificio",
+          "translations": [
+            "בניין",
+            "מבנה",
+            "ארמון"
+          ],
+          "definition": "מבנה קבוע מעשה ידי אדם עם קירות וגג, שנועד למגורים, לעבודה, ללימוד, לייצור או להתכנסות."
+        },
+        {
+          "word": "La puerta de entrada",
+          "filename": "laPuertaDeEntrada",
+          "translations": [
+            "דלת הכניסה",
+            "הדלת הקדמית",
+            "השער"
+          ],
+          "definition": "\"La\" (ה\"א הידיעה נקבה יחידה) | \"puerta\" (דלת, שער) | \"de\" (של) | \"entrada\" (כניסה, היכנסות). הפתח האדריכלי הראשי או הדלת המשמשים לכניסה לבניין, לחדר או לאזור תחום."
+        },
+        {
+          "word": "Palacio",
+          "filename": "palacio",
+          "translations": [
+            "ארמון",
+            "אחוזה"
+          ],
+          "definition": "מעון מפואר, מרשים וייצוגי, שנבנה היסטורית עבור מלכים, בני מלוכה, אצולה בכירה או ראשי מדינה."
+        },
+        {
+          "word": "Zarza",
+          "filename": "zarza",
+          "translations": [
+            "שיח"
+          ],
+          "definition": "צמח מעוצה קטן מעץ, המאופיין בכמה גבעולים המתפצלים סמוך לקרקע במקום גזע מרכזי אחד.",
+          "info": "ישנה תאוריה שהציע בני שנון, פסיכולוג קוגניטיבי מהאוניברסיטה העברית, שלפיה הסנה הבוער שדרכו משה דיבר עם אלוהים היה למעשה עץ שיטה שהכיל DMT."
+        },
+        {
+          "word": "Productos",
+          "filename": "productos",
+          "translations": [
+            "מוצרים",
+            "סחורות"
+          ],
+          "definition": "פריטים או ישויות מוחשיות שמיוצרים, נבנים או מאוחסנים בתוך מרחבים מסחריים או מבניים."
+        },
+        {
+          "word": "Partes",
+          "filename": "partes",
+          "translations": [
+            "חלקים",
+            "מקטעים"
+          ],
+          "definition": "רכיבים או מקטעים המרכיבים ישות או מבנה גדול יותר."
+        },
+        {
+          "word": "Plata",
+          "filename": "plata",
+          "translations": [
+            "כסף",
+            "כסף מזומן"
+          ],
+          "definition": "יסוד כימי מתכתי טבעי שמספרו האטומי 47. משמש גם בשפה המדוברת לציון כסף או מזומנים.",
+          "info": "הסמל הכימי של כסף הוא Ag, הנגזר מהמילה הלטינית \"argentum\"."
+        },
+        {
+          "word": "Cristales",
+          "filename": "cristales",
+          "translations": [
+            "גבישים",
+            "שברי זכוכית"
+          ],
+          "definition": "הצורה הזכרית ברבים של \"cristal\" (גביש). חומרים קשים, שקופים או חצי-שקופים, כגון קוורץ, אבני חן או זכוכית תעשייתית המשמשת בחלונות ובמשקפיים. זה יכול גם לציין שברי זכוכית שבורה על הקרקע."
+        },
+        {
+          "word": "Culebra",
+          "filename": "culebra",
+          "translations": [
+            "נחש",
+            "שרף"
+          ],
+          "definition": "זוחל ארוך חסר רגליים בעל גוף גמיש.",
+          "info": "המילה \"culebra\" היא שם עצם בעל מין קבוע, הקיים רק בצורת נקבה."
+        }
+      ]
+    }
+  ]
+}

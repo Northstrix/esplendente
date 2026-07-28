@@ -1,0 +1,1336 @@
+{
+  "levels": [
+    {
+      "id": 1,
+      "title": "Alltägliche Grundlagen I",
+      "description": "Grundlegende Wörter, die im alltäglichen Spanisch verwendet werden.",
+      "words": [
+        {
+          "word": "Yo",
+          "filename": "yo",
+          "translations": [
+            "Ich"
+          ],
+          "definition": "Das Pronomen, das eine sprechende Person verwendet, um auf sich selbst zu verweisen. Beispiel: \"Yo hablo español\" (Ich spreche Spanisch)",
+          "note": "Im Spanischen werden Subjektpronomen wie \"yo\" in der Regel weggelassen, außer zur Betonung oder Klarstellung."
+        },
+        {
+          "word": "Soy",
+          "filename": "soy",
+          "translations": [
+            "Ich bin"
+          ],
+          "definition": "Form der ersten Person Singular im Präsens von \"ser\" (sein). Wird verwendet, um zu sagen, was jemand ist, wie jemand ist, was jemand tut oder woher jemand kommt. Beispiel: \"Soy estudiante\" (Ich bin Student)",
+          "info": "\"Soy\" enthält bereits die Bedeutung von \"yo\", daher wird \"yo\" oft weggelassen."
+        },
+        {
+          "word": "Agua",
+          "filename": "agua",
+          "translations": [
+            "Wasser"
+          ],
+          "definition": "Durchsichtige, geruchlose und geschmacklose flüssige Verbindung aus Wasserstoff und Sauerstoff."
+        },
+        {
+          "word": "Dios",
+          "filename": "Dios",
+          "translations": [
+            "Gott"
+          ],
+          "definition": "Das höchste Wesen, Schöpfer und Herrscher des Universums, das in monotheistischen Religionen verehrt wird."
+        },
+        {
+          "word": "Familia",
+          "filename": "familia",
+          "translations": [
+            "Familie"
+          ],
+          "definition": "Eine Gruppe von Personen, die durch Blutsverwandtschaft, Ehe, Adoption oder starke emotionale Bindungen miteinander verbunden sind und typischerweise einen Haushalt teilen, einander unterstützen und als soziale Einheit zusammenleben."
+        },
+        {
+          "word": "Río",
+          "filename": "río",
+          "translations": [
+            "Fluss"
+          ],
+          "definition": "Großer, natürlicher Wasserlauf, der über die Erdoberfläche fließt und typischerweise in einen Ozean, ein Meer, einen See oder ein anderes größeres Gewässer mündet."
+        },
+        {
+          "word": "Miel",
+          "filename": "miel",
+          "translations": [
+            "Honig"
+          ],
+          "definition": "Eine süße, zähflüssige Substanz, die von Bienen—vor allem Honigbienen—aus dem Nektar von Blumen hergestellt wird."
+        },
+        {
+          "word": "Sangre",
+          "filename": "sangre",
+          "translations": [
+            "Blut"
+          ],
+          "definition": "Die rote Flüssigkeit, die durch das Herz-Kreislauf-System zirkuliert und vom Herzen gepumpt wird."
+        },
+        {
+          "word": "Fuerte",
+          "filename": "fuerte",
+          "translations": [
+            "Stark"
+          ],
+          "definition": "Jemand oder etwas mit großer körperlicher Kraft oder Stärke."
+        },
+        {
+          "word": "Tiempo",
+          "filename": "tiempo",
+          "translations": [
+            "Zeit"
+          ],
+          "definition": "Der unbestimmte, fortlaufende Ablauf von Existenz und Ereignissen."
+        },
+        {
+          "word": "Fuego",
+          "filename": "fuego",
+          "translations": [
+            "Feuer"
+          ],
+          "definition": "Brennende Hitze und Licht, die von Flammen erzeugt werden."
+        },
+        {
+          "word": "Pueblo",
+          "filename": "pueblo",
+          "translations": [
+            "Stadt",
+            "dorf",
+            "volk"
+          ],
+          "definition": "Eine kleine Gemeinschaft oder ein besiedelter Ort, an dem Menschen zusammenleben."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Alltägliche Grundlagen II",
+      "description": "Grundlegende Wörter, die im alltäglichen Spanisch verwendet werden.",
+      "words": [
+        {
+          "word": "Palabras",
+          "filename": "palabras",
+          "translations": [
+            "Wörter"
+          ],
+          "definition": "Pluralform von \"palabra\" (Wort). Spracheinheiten, die zum Sprechen oder Schreiben verwendet werden."
+        },
+        {
+          "word": "Flores",
+          "filename": "flores",
+          "translations": [
+            "Blumen",
+            "blüten"
+          ],
+          "definition": "Pluralform von \"flor\" (Blume). Fortpflanzungsorgane einer Pflanze, oft farbenfroh."
+        },
+        {
+          "word": "Corazón",
+          "filename": "corazón",
+          "translations": [
+            "Herz"
+          ],
+          "definition": "Muskelorgan in der Brust, das als zentrale Pumpe für das Herz-Kreislauf-System dient."
+        },
+        {
+          "word": "Ahora",
+          "filename": "ahora",
+          "translations": [
+            "Jetzt"
+          ],
+          "definition": "Zur gegenwärtigen Zeit oder sofort."
+        },
+        {
+          "word": "Paz",
+          "filename": "paz",
+          "translations": [
+            "Frieden"
+          ],
+          "definition": "Ein Zustand der Ruhe ohne Krieg oder Kämpfe."
+        },
+        {
+          "word": "Voz",
+          "filename": "voz",
+          "translations": [
+            "Stimme"
+          ],
+          "definition": "Das beim Sprechen oder Singen erzeugte Geräusch."
+        },
+        {
+          "word": "Mano",
+          "filename": "mano",
+          "translations": [
+            "Hand"
+          ],
+          "definition": "Der Teil des Arms einer Person jenseits des Handgelenks.",
+          "info": "\"Mano\" ist trotz der Endung auf -o ein feminines Substantiv im Singular."
+        },
+        {
+          "word": "Siempre",
+          "filename": "siempre",
+          "translations": [
+            "Immer",
+            "für immer"
+          ],
+          "definition": "Zu allen Zeiten oder bei jeder Gelegenheit ohne Ausnahme.",
+          "info": "Adverb der Zeit."
+        },
+        {
+          "word": "Color",
+          "filename": "color",
+          "translations": [
+            "Farbe"
+          ],
+          "definition": "Visuelle Wahrnehmungen von Licht, die sich durch Wellenlänge und Farbton unterscheiden."
+        },
+        {
+          "word": "Cosas",
+          "filename": "cosas",
+          "translations": [
+            "Dinge",
+            "sachen"
+          ],
+          "definition": "Plural feminine Form von \"cosa\" (Ding). Gegenstände, Objekte oder allgemeine Einheiten ohne spezifische Klassifizierung."
+        },
+        {
+          "word": "Padres",
+          "filename": "padres",
+          "translations": [
+            "Eltern",
+            "väter"
+          ],
+          "definition": "Ein Vater und eine Mutter oder Betreuungspersonen, die ein Kind zeugen, adoptieren oder aufziehen. Wird auch ausschließlich für männliche Elternteile verwendet. Pluralmaskuline Form von \"padre\" (Vater). Beispiele: \"Mis padres viven cerca\" (Meine Eltern wohnen in der Nähe) | \"La escuela organizó un torneo de fútbol para los padres y sus hijos\" (Die Schule organisierte ein Fußballturnier für die Väter und ihre Söhne)."
+        },
+        {
+          "word": "Nieve",
+          "filename": "nieve",
+          "translations": [
+            "Schnee"
+          ],
+          "definition": "Gefrorener Niederschlag aus Eiskristallen, der in weißen Flocken aus den Wolken fällt."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Länder und Orte",
+      "description": "Wörter und Wendungen zu Orten und Standorten.",
+      "words": [
+        {
+          "word": "Israel",
+          "filename": "israel",
+          "translations": [
+            "Israel"
+          ],
+          "definition": "Ein Land im Nahen Osten."
+        },
+        {
+          "word": "Egipto",
+          "filename": "egipto",
+          "translations": [
+            "Ägypten"
+          ],
+          "definition": "Ein Land im Nordosten Afrikas."
+        },
+        {
+          "word": "Puerto Rico",
+          "filename": "puertoRico",
+          "translations": [
+            "Puerto Rico"
+          ],
+          "definition": "Ein Archipel in der nordöstlichen Karibik.",
+          "info": "Puerto Rico ist ein Territorium der Vereinigten Staaten, kein souveräner Staat."
+        },
+        {
+          "word": "Desierto",
+          "filename": "desierto",
+          "translations": [
+            "Wüste",
+            "öde"
+          ],
+          "definition": "Ein trockenes, karges Gebiet mit sehr wenig Niederschlag und spärlicher Vegetation. Example: \"Caminaron por el desierto\" (Sie gingen durch die Wüste)"
+        },
+        {
+          "word": "Por el desierto",
+          "filename": "porElDesierto",
+          "translations": [
+            "Durch die Wüste",
+            "durch die Öde"
+          ],
+          "definition": "\"Por\" (Durch, für, von, wegen) | \"el\" (maskuliner bestimmter Artikel im Singular) | \"desierto\" (Wüste/Öde). Example: \"El pueblo vagó por el desierto cuarenta años\" (Das Volk wanderte vierzig Jahre lang durch die Wüste)"
+        },
+        {
+          "word": "Tierra",
+          "filename": "tierra",
+          "translations": [
+            "Land",
+            "Erde",
+            "Boden",
+            "Erde"
+          ],
+          "definition": "Der Planet Erde, der Boden, die Erde oder das Land; je nach Kontext kann es auch eine Region oder ein Gebiet bedeuten."
+        },
+        {
+          "word": "Tierra ajena",
+          "filename": "tierraAjena",
+          "translations": [
+            "Fremdes Land",
+            "Land eines anderen"
+          ],
+          "definition": "\"Tierra\" (Land) | \"ajena\" (feminine singular form of \"ajeno\" - fremd/einem anderen gehörend). Bezieht sich auf Land, einen Ort oder ein Land, das nicht das eigene ist. Example: \"Vive en tierra ajena\" (Er lebt in einem fremden Land)"
+        },
+        {
+          "word": "Tierra buena",
+          "filename": "tierraBuena",
+          "translations": [
+            "Gutes Land",
+            "fruchtbares Land"
+          ],
+          "definition": "\"Tierra\" (Land) | \"buena\" (feminine singular form of \"bueno\" - gut). Produktive, nährstoffreiche Erde oder ein Gebiet, das sich für Landwirtschaft, Ackerbau und den Anbau von Nutzpflanzen eignet. Example: \"Es una tierra buena para sembrar\" (Es ist gutes Land zum Säen)"
+        },
+        {
+          "word": "Tierra santa",
+          "filename": "tierraSanta",
+          "translations": [
+            "Heiliges Land"
+          ],
+          "definition": "\"Tierra\" (Land) | \"santa\" (feminine singular form of \"santo\" - heilig). Als heilig betrachtetes Gebiet."
+        },
+        {
+          "word": "Campo",
+          "filename": "campo",
+          "translations": [
+            "Landschaft",
+            "Feld",
+            "offenes Land"
+          ],
+          "definition": "Offenes Land außerhalb von Städten und Ortschaften; es wird oft verwendet, um Ackerland, Weiden oder ländliche Gebiete zu bezeichnen. Example: \"Los pastores estaban en el campo\" (Die Hirten waren auf dem Land)"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Zahlen und Geisteswissenschaften",
+      "description": "Wörter für Kardinalzahlen zusammen mit wichtigen Bereichen menschlichen Denkens und der Kultur.",
+      "words": [
+        {
+          "word": "Tres",
+          "filename": "3",
+          "translations": [
+            "Drei"
+          ],
+          "definition": "Die Kardinalzahl, die die Menge von drei Einheiten darstellt."
+        },
+        {
+          "word": "Cuatro",
+          "filename": "4",
+          "translations": [
+            "Vier"
+          ],
+          "definition": "Die Kardinalzahl, die die Menge von vier Einheiten darstellt."
+        },
+        {
+          "word": "Siete",
+          "filename": "7",
+          "translations": [
+            "Sieben"
+          ],
+          "definition": "Die Kardinalzahl, die die Menge von sieben Einheiten darstellt."
+        },
+        {
+          "word": "Quince",
+          "filename": "15",
+          "translations": [
+            "Fünfzehn"
+          ],
+          "definition": "Die Kardinalzahl, die die Menge von fünfzehn Einheiten darstellt."
+        },
+        {
+          "word": "Veintiuno",
+          "filename": "21",
+          "translations": [
+            "Einundzwanzig"
+          ],
+          "definition": "Die Kardinalzahl, die die Menge von einundzwanzig Einheiten darstellt."
+        },
+        {
+          "word": "Ochenta y tres",
+          "filename": "83",
+          "translations": [
+            "Dreiundachtzig"
+          ],
+          "definition": "Die Kardinalzahl, die die Menge von dreiundachtzig Einheiten darstellt."
+        },
+        {
+          "word": "Filosofía",
+          "filename": "filosofía",
+          "translations": [
+            "Philosophie"
+          ],
+          "definition": "Die Lehre von grundlegenden Ideen, Wissen und Existenz."
+        },
+        {
+          "word": "Poesía",
+          "filename": "poesía",
+          "translations": [
+            "Poesie"
+          ],
+          "definition": "Schrift, die sorgfältigen Rhythmus, Klang und Ausdruck verwendet."
+        },
+        {
+          "word": "Teología",
+          "filename": "teología",
+          "translations": [
+            "Theologie"
+          ],
+          "definition": "Die Lehre von religiösem Glauben, Praxis und Erfahrung."
+        },
+        {
+          "word": "Historia",
+          "filename": "historia",
+          "translations": [
+            "Geschichte"
+          ],
+          "definition": "Eine Aufzeichnung oder Darstellung vergangener Ereignisse."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Spanische Grundlagen",
+      "description": "Häufige spanische Wörter und Wendungen.",
+      "words": [
+        {
+          "word": "Ajena",
+          "filename": "ajena",
+          "translations": [
+            "Jemand anderem gehörig",
+            "fremd"
+          ],
+          "definition": "Eine feminine Singularform von \"ajeno\" (jemand anderem gehörig), die etwas beschreibt, das einer anderen Person gehört oder nicht das eigene ist.",
+          "info": "Singular maskulin: \"ajeno\"; Plural maskulin: \"ajenos\"; Plural feminin: \"ajenas\"."
+        },
+        {
+          "word": "Antigua",
+          "filename": "antigua",
+          "translations": [
+            "Alt",
+            "antik",
+            "früher"
+          ],
+          "definition": "Eine feminine Singularform von \"antiguo\" (alt), die etwas aus der Vergangenheit beschreibt.",
+          "info": "Singular maskulin: \"antiguo\"; Plural maskulin: \"antiguos\"; Plural feminin: \"antiguas\"."
+        },
+        {
+          "word": "Barro",
+          "filename": "barro",
+          "translations": [
+            "Schlamm",
+            "Schlick",
+            "Lehm"
+          ],
+          "definition": "Nasse Erde oder Schmutz, gemischt mit Wasser. Bezeichnet auch das erdige Material, das zur Herstellung von Töpferwaren, Ziegeln und Keramik verwendet wird."
+        },
+        {
+          "word": "Cabeza",
+          "filename": "cabeza",
+          "translations": [
+            "Kopf"
+          ],
+          "definition": "Der Körperteil oberhalb des Halses, der das Gehirn, die Augen, die Ohren, die Nase und den Mund enthält."
+        },
+        {
+          "word": "Callar",
+          "filename": "callar",
+          "translations": [
+            "Schweigen",
+            "zum Schweigen bringen",
+            "ruhig sein"
+          ],
+          "definition": "Aufhören zu sprechen oder jemand anderen zum Schweigen bringen."
+        },
+        {
+          "word": "Camino",
+          "filename": "camino",
+          "translations": [
+            "Straße",
+            "Weg",
+            "Pfad"
+          ],
+          "definition": "Eine Route oder Strecke, die zum Reisen von einem Ort zu einem anderen verwendet wird."
+        },
+        {
+          "word": "Cargas",
+          "filename": "cargas",
+          "translations": [
+            "Ladungen",
+            "Frachten",
+            "Lasten"
+          ],
+          "definition": "Die Pluralform von \"carga\" (Last, Bürde oder Fracht). Bezieht sich auf mehrere physische Gewichte, transportierte Sendungen oder belastende Verantwortlichkeiten, die getragen werden.",
+          "info": "Das feminine Substantiv \"carga\" teilt eine etymologische Wurzel mit dem maskulinen Substantiv \"cargo\" (beide abgeleitet vom Verb \"cargar\" - laden). Während \"cargo\" jedoch eine Arbeitsstelle, ein Amt oder eine finanzielle Gebühr bedeuten kann, bezieht sich \"carga\" spezifisch auf physische Lasten, Sendungen oder Bürden."
+        },
+        {
+          "word": "Colores brillantes",
+          "filename": "coloresBrillantes",
+          "translations": [
+            "Helle Farben",
+            "leuchtende Farben"
+          ],
+          "definition": "\"Colores\" (Pluralform von \"color\" - Farbe) | \"brillantes\" (Pluralform von \"brillante\" - hell, das im Singular geschlechtsneutral ist und im Plural auf -es endet). Bezieht sich auf Farben, die auffällig, lebhaft oder leicht zu bemerken sind.",
+          "info": "Das spanische Wort \"color\" ist grammatikalisch maskulin und hat keine feminine Form. \"Brillante\" ist ein Adjektiv, dessen Form sowohl im maskulinen als auch im femininen Fall gleich bleibt. Beide Wörter ändern ihre Form nur, um die Anzahl (Singular oder Plural) anzugeben, nicht das Geschlecht."
+        },
+        {
+          "word": "Clamor",
+          "filename": "clamor",
+          "translations": [
+            "Schrei",
+            "Aufschrei",
+            "Ruf"
+          ],
+          "definition": "Ein lauter Schrei, Ruf oder dringender Ausdruck eines starken Gefühls."
+        },
+        {
+          "word": "En general",
+          "filename": "enGeneral",
+          "translations": [
+            "Im Allgemeinen",
+            "allgemein"
+          ],
+          "definition": "\"En\" (In) | \"general\" (allgemein). Eine Wendung, die verwendet wird, um etwas als in den meisten Fällen zutreffend zu beschreiben."
+        },
+        {
+          "word": "Entonces",
+          "filename": "entonces",
+          "translations": [
+            "Dann",
+            "also",
+            "zu dieser Zeit"
+          ],
+          "definition": "Ein Adverb, das verwendet wird, um eine Konsequenz, einen zeitlichen Ablauf (dann, zu dieser Zeit) oder als Gesprächsfüllwort (also, in diesem Fall) anzuzeigen."
+        },
+        {
+          "word": "Por cierto",
+          "filename": "porCierto",
+          "translations": [
+            "Übrigens"
+          ],
+          "definition": "\"Por\" (Durch, für, von, wegen) | \"cierto\" (sicher, gewiss, wahr). Eine Wendung, die verwendet wird, um einen zusätzlichen Gedanken hinzuzufügen oder einen verwandten Punkt einzuführen.",
+          "info": "Diese Wendung nicht mit \"por supuesto\" (natürlich) verwechseln. \"Por cierto\" wird verwendet, um zu einem Nebengedanken überzuleiten oder das Thema leicht zu wechseln, während \"por supuesto\" verwendet wird, um starke Zustimmung auszudrücken oder etwas mit Sicherheit zu bestätigen."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Rollen und Beziehungen",
+      "description": "Wörter und Ausdrücke über familiäre Bindungen, gesellschaftliche Rollen und verwandte Redewendungen.",
+      "words": [
+        {
+          "word": "Con su familia",
+          "filename": "conSuFamilia",
+          "translations": [
+            "Mit seiner Familie",
+            "mit ihrer Familie",
+            "mit ihrer Familie"
+          ],
+          "definition": "\"Con\" (mit) | \"su\" (sein, ihr, ihr, Ihr) | \"familia\" (Familie). Wird verwendet, um das Zusammensein mit einer Familiengruppe zu beschreiben.",
+          "info": "\"Su\" ist ein geschlechtsneutraler besitzanzeigender Begleiter, der sein, ihr, ihr oder sein bedeuten kann, ebenso wie Ihr in Bezug auf die formelle Einzahl (usted) und Mehrzahl (ustedes)."
+        },
+        {
+          "word": "Sus hermanos",
+          "filename": "susHermanos",
+          "translations": [
+            "Seine Brüder",
+            "ihre Brüder",
+            "ihre Brüder",
+            "Ihre Brüder"
+          ],
+          "definition": "\"Sus\" (sein, ihr, ihr oder Ihr) | \"hermanos\" (Brüder, Geschwister). Bezieht sich auf die männlichen Geschwister einer Person oder allgemein auf Geschwister.",
+          "info": "\"Sus\" ist ein geschlechtsneutraler besitzanzeigender Begleiter, der sein, ihr, ihr oder sein bedeuten kann, ebenso wie Ihr in Bezug auf die formelle Einzahl (usted) und Mehrzahl (ustedes), und wird ausschließlich mit Pluralnomen oder mehreren besessenen Gegenständen verwendet."
+        },
+        {
+          "word": "Señor",
+          "filename": "señor",
+          "translations": [
+            "Herr",
+            "Herr"
+          ],
+          "definition": "Eine respektvolle Anrede, die verwendet wird, um einen Mann anzureden oder auf ihn zu verweisen.",
+          "info": "Plural maskulin: \"señores\"; weibliches Gegenstück: \"señora\"."
+        },
+        {
+          "word": "Mujer española",
+          "filename": "mujerEspañola",
+          "translations": [
+            "Spanische Frau"
+          ],
+          "definition": "\"Mujer\" (Frau) | \"española\" (weibliche Singularform von \"español\" - spanisch). Eine Frau, die entweder aus Spanien stammt oder mit einer spanischen Identität verbunden ist."
+        },
+        {
+          "word": "Rey",
+          "filename": "rey",
+          "translations": [
+            "König"
+          ],
+          "definition": "Ein männlicher souveräner Herrscher über einen unabhängigen Staat."
+        },
+        {
+          "word": "La reina",
+          "filename": "laReina",
+          "translations": [
+            "Die Königin"
+          ],
+          "definition": "\"La\" (weibliche Singularform von \"die\") | \"reina\" (Königin). Eine weibliche souveräne Herrscherin über einen unabhängigen Staat oder die Ehefrau eines Königs."
+        },
+        {
+          "word": "Las labores",
+          "filename": "lasLabores",
+          "translations": [
+            "Die Aufgaben",
+            "die Hausarbeiten",
+            "die Arbeiten"
+          ],
+          "definition": "\"Las\" (weibliche Pluralform von \"die\") | \"labores\" (Pluralform von \"labor\" - Aufgabe) . Arbeit, Pflichten oder Tätigkeiten, die erledigt werden müssen.",
+          "info": "Obwohl die meisten spanischen Substantive, die auf -or enden, maskulin sind, ist \"labor\" weiblich und hat keine maskuline Form."
+        },
+        {
+          "word": "Trabajo expuesto",
+          "filename": "trabajoExpuesto",
+          "translations": [
+            "Ausgestellte Arbeit",
+            "gezeigte Arbeit"
+          ],
+          "definition": "\"Trabajo\" (Arbeit, Job) | \"expuesto\" (abgeschlossene männliche Singularform von \"exponer\" - ausstellen). Arbeit, die gezeigt, sichtbar platziert oder unbedeckt gelassen wird."
+        },
+        {
+          "word": "Resultó menguado",
+          "filename": "resultóMenguado",
+          "translations": [
+            "Erwies sich als vermindert",
+            "endete verringert"
+          ],
+          "definition": "\"Resultó\" (abgeschlossene Vergangenheitsform Singular von \"resultar\" - sich herausstellen, resultieren, sich als etwas erweisen) | \"menguado\" (vermindert). Beschreibt etwas, das sich als kleiner, schwächer oder weniger als erwartet herausgestellt hat."
+        },
+        {
+          "word": "Triste resultado",
+          "filename": "tristeResultado",
+          "translations": [
+            "Trauriges Ergebnis",
+            "unglücklicher Ausgang"
+          ],
+          "definition": "\"Triste\" (traurig) | \"resultado\" (Ergebnis, Ausgang). Ein Ergebnis, das unglücklich oder enttäuschend ist.",
+          "info": "Wie alle spanischen Adjektive, die auf -e enden, verändert \"triste\" seine Form nur, um den Numerus (Singular oder Plural) anzuzeigen, nicht das Genus."
+        },
+        {
+          "word": "Vaya de la tierra",
+          "filename": "vayaDeLaTierra",
+          "translations": [
+            "Geh weg vom Land",
+            "möge jemand das Land verlassen"
+          ],
+          "definition": "\"Vaya\" (Konjunktiv oder formelle Befehlsform von \"ir\" - gehen) | \"de\" (von, aus) | \"la\" (weibliche Singularform von \"die\") | \"tierra\" (Land, Erde, Boden, Boden). Ein Ausdruck über das Verlassen oder Weggehen von einem Ort oder Land."
+        },
+        {
+          "word": "Servidumbre",
+          "filename": "servidumbre",
+          "translations": [
+            "Dienstbarkeit",
+            "Dienst",
+            "Hauspersonal"
+          ],
+          "definition": "Der Zustand, einer Kontrolle oder einem erzwungenen Dienst unterworfen zu sein, oder die Gruppe von Dienstboten in einem Haushalt."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Zeit, Fortschritt und Abfolge",
+      "description": "Wörter und Formen im Zusammenhang mit Zeit, Reihenfolge, Dauer und fortlaufender Veränderung.",
+      "words": [
+        {
+          "word": "Febrero",
+          "filename": "febrero",
+          "translations": [
+            "Februar"
+          ],
+          "definition": "Der zweite Monat des Jahres im gregorianischen Kalender, der nach Januar und vor März kommt."
+        },
+        {
+          "word": "Primero de febrero",
+          "filename": "primeroDeFebrero",
+          "translations": [
+            "1. Februar",
+            "erster Februar"
+          ],
+          "definition": "\"Primero\" (erste) | \"de\" (von, aus) | \"febrero\" (Februar). Ein Datums­ausdruck im Kalender, der sich auf den ersten Tag des Februars bezieht."
+        },
+        {
+          "word": "Octubre",
+          "filename": "octubre",
+          "translations": [
+            "Oktober"
+          ],
+          "definition": "Der zehnte Monat des Jahres im gregorianischen Kalender, der nach September und vor November kommt."
+        },
+        {
+          "word": "Poco tiempo",
+          "filename": "pocoTiempo",
+          "translations": [
+            "Kurze Zeit",
+            "eine Weile",
+            "kurze Dauer"
+          ],
+          "definition": "\"Poco\" (wenig, kurz) | \"tiempo\" (Zeit). Ein kurzer Zeitraum oder eine kurze Dauer."
+        },
+        {
+          "word": "Progreso",
+          "filename": "progreso",
+          "translations": [
+            "Fortschritt",
+            "weiterentwicklung"
+          ],
+          "definition": "Vorwärtsbewegung, Entwicklung oder Verbesserung hin zu einem Ziel oder einer Bestimmung im Laufe der Zeit."
+        },
+        {
+          "word": "Aumentados",
+          "filename": "aumentados",
+          "translations": [
+            "Erhöht",
+            "gewachsen",
+            "gesteigert"
+          ],
+          "definition": "Abgeschlossene männliche Pluralform von \"aumentar\" (erhöhen, steigern). Sind größer geworden in Menge, Umfang oder Zahl."
+        },
+        {
+          "word": "Crecían",
+          "filename": "crecían",
+          "translations": [
+            "wuchsen",
+            "nahmen zu"
+          ],
+          "definition": "Fortlaufende Vergangenheitsform von \"crecer\" (wachsen), die einen anhaltenden Zuwachs, eine Entwicklung oder ein Wachstum in der Vergangenheit beschreibt."
+        },
+        {
+          "word": "Consumía",
+          "filename": "consumía",
+          "translations": [
+            "verbrauchte",
+            "wurde verbraucht"
+          ],
+          "definition": "Fortlaufende Vergangenheitsform (Imperfekt) von \"consumir\" (verbrauchen, aufbrauchen), die eine laufende Handlung oder etwas beschreibt, das in der Vergangenheit verbraucht wurde."
+        },
+        {
+          "word": "Generación",
+          "filename": "generación",
+          "translations": [
+            "Generation"
+          ],
+          "definition": "Alle Menschen, die ungefähr zur gleichen Zeit geboren wurden und leben, insgesamt betrachtet, oder der Vorgang, etwas hervorzubringen oder zu erzeugen."
+        },
+        {
+          "word": "También",
+          "filename": "también",
+          "translations": [
+            "Auch",
+            "ebenfalls",
+            "gleichfalls"
+          ],
+          "definition": "Ein Adverb, das verwendet wird, um einen weiteren Punkt hinzuzufügen, zusätzliche Informationen einzubeziehen oder Übereinstimmung mit dem zuvor Gesagten auszudrücken."
+        },
+        {
+          "word": "Postrera",
+          "filename": "postrera",
+          "translations": [
+            "Letzte",
+            "abschließende",
+            "neueste"
+          ],
+          "definition": "Weibliche Singularform von \"postrero\" (letzte). Beschreibt das letzte Element oder die letzte Person in einer Reihenfolge oder Serie.",
+          "info": "Singular maskulin: \"postrero\"; Plural maskulin: \"postreros\"; Plural feminin: \"postreras\"."
+        },
+        {
+          "word": "Fin",
+          "filename": "fin",
+          "translations": [
+            "Ende",
+            "abschluss",
+            "Schluss"
+          ],
+          "definition": "Der Endpunkt, Abschluss oder letzte Teil von etwas."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Menschen und Gegenstände",
+      "description": "Wörter und Formen im Zusammenhang mit Menschen, Rollen, Gruppen sowie allgemeinen physischen Gegenständen oder Materialien.",
+      "words": [
+        {
+          "word": "Prójimo",
+          "filename": "prójimo",
+          "translations": [
+            "Nächster",
+            "Mitmensch",
+            "Mitperson"
+          ],
+          "definition": "Eine Person, die einem im menschlichen oder moralischen Sinn nahe steht; der eigene Mitmensch."
+        },
+        {
+          "word": "Suegro",
+          "filename": "suegro",
+          "translations": [
+            "Schwiegervater"
+          ],
+          "definition": "Der Vater des eigenen Ehepartners."
+        },
+        {
+          "word": "Pastores",
+          "filename": "pastores",
+          "translations": [
+            "Hirten",
+            "Pastoren"
+          ],
+          "definition": "Maskuline Pluralform von \"pastor\" (Hirte). Personen, die Schafe hüten, oder religiöse Leiter in bestimmten Zusammenhängen."
+        },
+        {
+          "word": "Parteras",
+          "filename": "parteras",
+          "translations": [
+            "Hebammen"
+          ],
+          "definition": "Feminine Pluralform von \"partera\" (Hebamme). Frauen, die bei Geburten helfen.",
+          "info": "Traditionell ein weiblich dominierter Beruf, daher ist die feminine Form gebräuchlich, auch wenn die maskuline Form \"partero\" grammatisch möglich ist, um einen männlichen Geburtshelfer zu bezeichnen."
+        },
+        {
+          "word": "Varón",
+          "filename": "varón",
+          "translations": [
+            "Mann",
+            "männlicher"
+          ],
+          "definition": "Eine erwachsene männliche Person oder ein männlicher Mensch.",
+          "info": "\"Varón\" bezeichnet speziell einen männlichen Menschen. Auch wenn eine archaische und selten verwendete feminine Form existiert, verwendet das moderne Spanisch \"mujer\" als übliche Entsprechung für eine weibliche Person."
+        },
+        {
+          "word": "Vestidos",
+          "filename": "vestidos",
+          "translations": [
+            "Kleider",
+            "Bekleidung",
+            "Kleidung"
+          ],
+          "definition": "Maskuline Pluralform von \"vestido\" (Kleid, Kleidungsstück). Kleidungsstücke, die getragen werden, um den Körper zu bedecken. Beispiele: \"Mis vestidos favoritos están en el armario\" (Meine Lieblingskleider sind im Schrank [Gegenwart/generelle Aussage]) | \"Ella está vestida para la ocasión\" (Sie ist für den Anlass gekleidet [Bezug auf eine vergangene Handlung]).",
+          "info": "Die maskuline Form \"vestido\" wird als Substantiv für Kleidung verwendet, während die feminine Form \"vestida\" eine abgeschlossene Handlung ausdrückt (gekleidet, bekleidet)."
+        },
+        {
+          "word": "Voluntario",
+          "filename": "voluntario",
+          "translations": [
+            "Freiwilliger"
+          ],
+          "definition": "Eine Person, die aus freiem Entschluss handelt und nicht unter Zwang."
+        },
+        {
+          "word": "Vosotros",
+          "filename": "vosotros",
+          "translations": [
+            "Ihr alle",
+            "ihr"
+          ],
+          "definition": "Das informelle Pluralpronomen, das verwendet wird, wenn man mehr als eine Person anredet."
+        },
+        {
+          "word": "Ladrillo",
+          "filename": "ladrillo",
+          "translations": [
+            "Ziegel"
+          ],
+          "definition": "Ein rechteckiger Block aus gebranntem Ton oder ähnlichem Material, der im Bauwesen verwendet wird."
+        },
+        {
+          "word": "Fibra",
+          "filename": "fibra",
+          "translations": [
+            "Faser"
+          ],
+          "definition": "Ein dünner, fadenförmiger Strang, der insbesondere Teil eines Gewebes, Materials oder Textils ist."
+        },
+        {
+          "word": "Vara",
+          "filename": "vara",
+          "translations": [
+            "Stab",
+            "Stange",
+            "Stock"
+          ],
+          "definition": "Ein langer, schlanker Stock, der häufig als Stütze, Werkzeug oder Messgerät verwendet wird."
+        },
+        {
+          "word": "Mesas",
+          "filename": "mesas",
+          "translations": [
+            "Tische"
+          ],
+          "definition": "Pluralform von \"mesa\" (Tisch). Möbelstücke mit einer flachen Platte, die zum Essen, Arbeiten oder zum Abstellen von Gegenständen verwendet werden.",
+          "info": "Eine maskuline Form dieses Wortes existiert nicht."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Ereignisse und Handlungen",
+      "description": "Wörter im Zusammenhang mit Handlungen sowie abgeschlossenen, zukünftigen oder andauernden Ereignissen.",
+      "words": [
+        {
+          "word": "Conseguido",
+          "filename": "conseguido",
+          "translations": [
+            "Erreicht",
+            "erlangt",
+            "gelungen"
+          ],
+          "definition": "Abgeschlossene Vergangenheitsform von \"conseguir\" (erreichen, erlangen). Beschreibt etwas, das bereits gewonnen, erreicht oder erfolgreich zustande gebracht worden ist."
+        },
+        {
+          "word": "Creerán",
+          "filename": "creerán",
+          "translations": [
+            "Sie werden glauben",
+            "sie werden denken"
+          ],
+          "definition": "Zukunftsform von \"creer\" (glauben, denken) für \"ellos\" (sie). Bezieht sich auf einen Glauben oder Gedanken, der später oder in der Zukunft stattfinden wird."
+        },
+        {
+          "word": "Críamelo",
+          "filename": "críamelo",
+          "translations": [
+            "Zieh ihn für mich groß"
+          ],
+          "definition": "\"Cría\" (Befehlsform von \"criar\" - großziehen oder aufziehen) + \"me\" (für mich, mir) + \"lo\" (ihn, es). Ein zusammengesetzter Befehl, mit dem jemand aufgefordert wird, ein Kind im Auftrag des Sprechers großzuziehen oder zu stillen.",
+          "info": "Dieser Ausdruck erscheint in 2. Mose 2:9, als die Tochter des Pharao den Säugling Mose in einem Kästchen zwischen den Schilfrohren entdeckt. Aus Mitleid mit dem weinenden Kind gibt sie ihn seiner leiblichen Mutter zurück (die als verborgene hebräische Amme handelte) und sagt: \"Lleva a este niño y críamelo, y yo te lo pagaré\" (Nimm dieses Kind und zieh es für mich groß, dann werde ich dich dafür bezahlen)."
+        },
+        {
+          "word": "Dijo",
+          "filename": "dijo",
+          "translations": [
+            "Er sagte",
+            "sie sagte",
+            "er sagte es",
+            "sie sagte es"
+          ],
+          "definition": "Abgeschlossene Vergangenheitsform Singular von \"decir\" (sagen, erzählen) für \"él\" (er, ihn) oder \"ella\" (sie, ihr). Bezieht sich auf einen abgeschlossenen Sprechakt oder eine abgeschlossene Mitteilung in der Vergangenheit. Beispiel: \"Dijo que vendría\" (Er/Sie sagte, dass er/sie kommen würde).",
+          "info": "\"Dijo\" ist eine Vergangenheitsform in der dritten Person Singular. Erste Person Singular abgeschlossene Vergangenheit: \"dije\"; zweite Person Singular informell abgeschlossene Vergangenheit (tú): \"dijiste\"; dritte Person Plural abgeschlossene Vergangenheit: \"dijeron\"."
+        },
+        {
+          "word": "Dicho",
+          "filename": "dicho",
+          "translations": [
+            "Gesagt",
+            "gesprochen",
+            "erzählt"
+          ],
+          "definition": "Abgeschlossene Vergangenheitsform von \"decir\" (sagen, erzählen). Beschreibt etwas, das bereits gesagt oder ausgesprochen worden ist. Beispiel: \"Lo dicho\" (Das Gesagte).",
+          "info": "\"Dicho\" wird häufig verwendet, um auf frühere Worte oder Aussagen zurückzuverweisen."
+        },
+        {
+          "word": "Diciendo",
+          "filename": "diciendo",
+          "translations": [
+            "sagend",
+            "erzählend",
+            "sprechend"
+          ],
+          "definition": "Andauernde Form von \"decir\" (sagen, erzählen). Beschreibt Sprechen oder Erzählen, das gerade in diesem Moment stattfindet. Beispiel: \"Está diciendo la verdad\" (Er/Sie sagt gerade die Wahrheit)."
+        },
+        {
+          "word": "Enumerar",
+          "filename": "enumerar",
+          "translations": [
+            "Aufzählen"
+          ],
+          "definition": "Dinge der Reihe nach einzeln zu nennen."
+        },
+        {
+          "word": "Miró",
+          "filename": "miró",
+          "translations": [
+            "Schaute",
+            "sah",
+            "blickte"
+          ],
+          "definition": "Abgeschlossene Vergangenheitsform Singular von \"mirar\" (schauen, ansehen) für \"él\" (er, ihn) oder \"ella\" (sie, ihr). Bezieht sich auf eine abgeschlossene Handlung des Schauens oder Betrachtens in der Vergangenheit. Beispiel: \"Miró al cielo\" (Er/Sie schaute zum Himmel)."
+        },
+        {
+          "word": "Parecía",
+          "filename": "parecía",
+          "translations": [
+            "Wirkte",
+            "schien",
+            "sah aus"
+          ],
+          "definition": "Andauernde Vergangenheitsform von \"parecer\" (scheinen, den Eindruck machen) für \"él\" (er, ihn) oder \"ella\" (sie, ihr). Beschreibt etwas, das über einen Zeitraum hinweg in der Vergangenheit einen bestimmten Eindruck vermittelte. Beispiel: \"Parecía cansado\" (Er wirkte müde)."
+        },
+        {
+          "word": "Respondió",
+          "filename": "respondió",
+          "translations": [
+            "Antwortete",
+            "reagierte"
+          ],
+          "definition": "Abgeschlossene Vergangenheitsform Singular von \"responder\" (antworten, reagieren) für \"él\" (er, ihn) oder \"ella\" (sie, ihr). Bezieht sich auf eine abgeschlossene Antwort oder Reaktion in der Vergangenheit. Beispiel: \"Respondió a la pregunta\" (Er/Sie antwortete auf die Frage)."
+        },
+        {
+          "word": "Sacó",
+          "filename": "sacó",
+          "translations": [
+            "Holte heraus",
+            "zog heraus",
+            "nahm heraus"
+          ],
+          "definition": "Abgeschlossene Vergangenheitsform Singular von \"sacar\" (herausnehmen, herausziehen) für \"él\" (er, ihn) oder \"ella\" (sie, ihr). Bezieht sich auf eine abgeschlossene Handlung des Herausnehmens oder Hervorholens von etwas. Beispiel: \"Sacó el libro de la bolsa\" (Er/Sie nahm das Buch aus der Tasche heraus)."
+        },
+        {
+          "word": "Recordar",
+          "filename": "recordar",
+          "translations": [
+            "Sich erinnern",
+            "sich ins Gedächtnis rufen",
+            "jemanden erinnern"
+          ],
+          "definition": "Etwas wieder ins Bewusstsein zu bringen oder im Gedächtnis zu behalten. Es kann auch bedeuten, jemand anderem zu helfen, sich an etwas zu erinnern. Beispiel: \"Recordar una fecha\" (Sich an ein Datum erinnern)."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Abstrakte Ausdrücke & Zustände",
+      "description": "Wörter und Wendungen zu Eigenschaften, Zuständen und abstrakten Ideen.",
+      "words": [
+        {
+          "word": "Acertadas",
+          "filename": "acertadas",
+          "translations": [
+            "Richtig",
+            "passend",
+            "genau"
+          ],
+          "definition": "Weibliche Pluralform von \"acertado\" (richtig, passend, genau). Beschreibt Dinge, die treffend, gut gewählt oder angemessen sind.",
+          "info": "Singular maskulin: \"acertado\"; Singular feminin: \"acertada\"; Plural maskulin: \"acertados\"."
+        },
+        {
+          "word": "Correspondencias",
+          "filename": "correspondencias",
+          "translations": [
+            "Entsprechungen",
+            "Übereinstimmungen",
+            "Verbindungen"
+          ],
+          "definition": "Pluralform von \"correspondencia\" (Korrespondenz). Bezieht sich auf Beziehungen, Übereinstimmungen oder zwischen Personen oder Orten ausgetauschte Mitteilungen.",
+          "info": "Das spanische Wort \"correspondencia\" ist grammatikalisch feminin und hat keine maskuline Form."
+        },
+        {
+          "word": "Escondido",
+          "filename": "escondido",
+          "translations": [
+            "Versteckt",
+            "verborgen",
+            "geheim"
+          ],
+          "definition": "Vergangenes abgeschlossenes maskulines Singular von \"esconder\" (verstecken, verbergen). Beschreibt etwas, das nicht sichtbar ist oder verborgen gehalten wird.",
+          "info": "Singular feminin: \"escondida\"; Plural maskulin: \"escondidos\"; Plural feminin: \"escondidas\"."
+        },
+        {
+          "word": "Ventajosamente",
+          "filename": "ventajosamente",
+          "translations": [
+            "Vorteilhaft",
+            "nützlich",
+            "gewinnbringend"
+          ],
+          "definition": "Beschreibt eine Handlung, die Nutzen oder Vorteil bringt."
+        },
+        {
+          "word": "Pericia",
+          "filename": "pericia",
+          "translations": [
+            "Fertigkeit",
+            "Sachkenntnis",
+            "Fachkompetenz"
+          ],
+          "definition": "Besondere Fähigkeit oder trainierte Fertigkeit, etwas gut zu tun, besonders durch Erfahrung oder Wissen."
+        },
+        {
+          "word": "Preeminencia",
+          "filename": "preeminencia",
+          "translations": [
+            "Vorrang",
+            "Überlegenheit",
+            "Prominenz"
+          ],
+          "definition": "Ein Zustand, in Rang, Bedeutung oder Exzellenz über anderen zu stehen."
+        },
+        {
+          "word": "Primorosos",
+          "filename": "primorosos",
+          "translations": [
+            "Exquisit",
+            "schön",
+            "fein gearbeitet"
+          ],
+          "definition": "Maskuliner Plural von \"primoroso\" (exquisit). Beschreibt Dinge, die mit großer Sorgfalt, Zartheit oder Schönheit gefertigt sind.",
+          "info": "Singular maskulin: \"primoroso\"; Singular feminin: \"primorosa\"; Plural feminin: \"primorosas\"."
+        },
+        {
+          "word": "Miedo",
+          "filename": "miedo",
+          "translations": [
+            "Furcht",
+            "Angst",
+            "Bange"
+          ],
+          "definition": "Ein intensives, unangenehmes Gefühl, ausgelöst durch die Wahrnehmung von Gefahr, Bedrohung oder Schaden – ob real oder eingebildet."
+        },
+        {
+          "word": "Muerte",
+          "filename": "muerte",
+          "translations": [
+            "Tod"
+          ],
+          "definition": "Das dauerhafte Ende aller Lebensfunktionen bei einem Menschen, Tier oder einer Pflanze."
+        },
+        {
+          "word": "Protestas",
+          "filename": "protestas",
+          "translations": [
+            "Proteste",
+            "Einwände",
+            "Forderungen"
+          ],
+          "definition": "Pluralform von \"protesta\" (Protest, Demonstration). Ausdruck von Unzufriedenheit, Beschwerde oder öffentlichem Widerspruch.",
+          "info": "Das spanische Wort \"protesta\" bezeichnet ein Ereignis oder eine Handlung, nicht einen Menschen."
+        },
+        {
+          "word": "Público",
+          "filename": "público",
+          "translations": [
+            "Öffentlich",
+            "Publikum"
+          ],
+          "definition": "Die Menschen allgemein oder das Publikum bei einer Veranstaltung."
+        },
+        {
+          "word": "Servicio",
+          "filename": "servicio",
+          "translations": [
+            "Dienst",
+            "Hilfe",
+            "Pflicht"
+          ],
+          "definition": "Hilfreiche Handlung, Arbeit für andere oder ein organisiertes System, das Unterstützung oder Hilfe bereitstellt."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Identität und Beziehungen",
+      "description": "Wörter und Wendungen über Menschen, persönliche Eigenschaften, Identität und Beziehungen.",
+      "words": [
+        {
+          "word": "Apasionados",
+          "filename": "apasionados",
+          "translations": [
+            "Leidenschaftlich",
+            "inbrünstig"
+          ],
+          "definition": "Maskuline Pluralform von \"apasionado\" (leidenschaftlich). Beschreibt Menschen mit starken Gefühlen, Begeisterung oder Intensität.",
+          "note": "Wird für Männergruppen oder gemischtgeschlechtliche Gruppen verwendet."
+        },
+        {
+          "word": "Ignorantes",
+          "filename": "ignorantes",
+          "translations": [
+            "Unwissend",
+            "unbewusst"
+          ],
+          "definition": "Pluralform von \"ignorante\". Beschreibt Menschen, denen Wissen, Bewusstsein oder Informationen fehlen."
+        },
+        {
+          "word": "Interesadas",
+          "filename": "interesadas",
+          "translations": [
+            "Interessiert",
+            "neugierig",
+            "beteiligt"
+          ],
+          "definition": "Weibliche Pluralform von \"interesado\" (interessiert). Beschreibt Frauen oder weibliche Gruppen, die Neugier, Aufmerksamkeit oder Beteiligung zeigen."
+        },
+        {
+          "word": "Exactores",
+          "filename": "exactores",
+          "translations": [
+            "Steuereinnehmer",
+            "Eintreiber"
+          ],
+          "definition": "Pluralform von \"exactor\" (Steuereinnehmer). Bezieht sich auf Menschen, die Geld oder Zahlungen einziehen, besonders Steuern oder Abgaben."
+        },
+        {
+          "word": "Jehová",
+          "filename": "jehová",
+          "translations": [
+            "Jehova"
+          ],
+          "definition": "Eigenname Gottes im religiösen Kontext.",
+          "info": "Während das übliche allgemeine Wort im Spanischen für Gott \"Dios\" ist, ist \"Jehová\" ein spezieller, persönlicher Eigenname, der vom hebräischen Tetragramm \"יהוה\" abgeleitet ist."
+        },
+        {
+          "word": "Vigilante",
+          "filename": "vigilante",
+          "translations": [
+            "Wächter",
+            "Wachmann",
+            "Beobachter"
+          ],
+          "definition": "Abgeleitet vom Verb \"vigilar\" (beobachten oder überwachen). Es bezeichnet eine Person, die in rechtlicher, offizieller oder autorisierter Funktion über etwas wacht, es bewacht oder unter Beobachtung hält.",
+          "info": "False-friend-Warnung: Im Spanischen bezeichnet \"vigilante\" strikt einen legalen Sicherheitsdienstmitarbeiter, Wachmann oder offiziellen Aufseher. Im Englischen hingegen bezeichnet vigilante jemanden, der das Gesetz in die eigenen Hände nimmt, um Verbrecher außerhalb des Rechtssystems zu bestrafen."
+        },
+        {
+          "word": "Primogénito",
+          "filename": "primogénito",
+          "translations": [
+            "Erstgeborene"
+          ],
+          "definition": "Eine Person, definiert durch die Geburtsreihenfolge, genauer das zuerst geborene Kind."
+        },
+        {
+          "word": "Siete hijas",
+          "filename": "sieteHijas",
+          "translations": [
+            "Sieben Töchter"
+          ],
+          "definition": "Eine familienbezogene Wendung, die sich auf sieben Töchter bezieht."
+        },
+        {
+          "word": "Contigo",
+          "filename": "contigo",
+          "translations": [
+            "Mit dir"
+          ],
+          "definition": "Wendung, die eine Beziehung oder Interaktion mit einer anderen Person ausdrückt."
+        },
+        {
+          "word": "Mi nombre",
+          "filename": "miNombre",
+          "translations": [
+            "Mein Name"
+          ],
+          "definition": "Identitätsmerkmal zur Selbstbezeichnung oder zur Identifizierung der eigenen Person."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Entitäten & Strukturen",
+      "description": "Wörter zu physischen Gebäuden, greifbaren Objekten und organisatorischen Einheiten.",
+      "words": [
+        {
+          "word": "Institutos",
+          "filename": "institutos",
+          "translations": [
+            "Institutionen"
+          ],
+          "definition": "Maskuline Pluralform von \"instituto\" (Institution). Dauerhafte soziale, wissenschaftliche oder bildungsbezogene Säulen, tief verankert im öffentlichen Leben und im kollektiven Vertrauen, die als dauerhafte strukturelle Rahmen statt als entbehrliche oder kurzlebige Verwaltungsorgane funktionieren."
+        },
+        {
+          "word": "Edificio",
+          "filename": "edificio",
+          "translations": [
+            "Gebäude",
+            "Bauwerk",
+            "Bau"
+          ],
+          "definition": "Eine dauerhafte, vom Menschen geschaffene Struktur mit Wänden und einem Dach, geschaffen zum Wohnen, Arbeiten, Lernen, Produzieren oder Zusammenkommen."
+        },
+        {
+          "word": "La puerta de entrada",
+          "filename": "laPuertaDeEntrada",
+          "translations": [
+            "Die Eingangstür",
+            "die Haustür",
+            "das Tor"
+          ],
+          "definition": "\"La\" (weiblicher Singular \"die\") | \"puerta\" (Tür, Tor) | \"de\" (von) | \"entrada\" (Eingang, Eintritt). Das wichtigste architektonische Portal oder die Tür zum Betreten eines Gebäudes, Raums oder abgeschlossenen Bereichs."
+        },
+        {
+          "word": "Palacio",
+          "filename": "palacio",
+          "translations": [
+            "Palast",
+            "Herrenhaus"
+          ],
+          "definition": "Eine große, prachtvolle und vornehme Residenz, historisch für Monarchen, Könige, hochrangigen Adel oder Staatsoberhäupter erbaut."
+        },
+        {
+          "word": "Zarza",
+          "filename": "zarza",
+          "translations": [
+            "Busch"
+          ],
+          "definition": "Eine holzige Pflanze, kleiner als ein Baum, die durch mehrere Stämme gekennzeichnet ist, die sich nahe am Boden verzweigen, statt durch einen einzelnen Hauptstamm.",
+          "info": "Es gibt eine von Benny Shanon, einem kognitiven Psychologen der Hebräischen Universität, aufgestellte Theorie, dass der brennende Dornbusch, aus dem Moses zu Gott sprach, tatsächlich ein Akazienbaum war, der DMT enthielt."
+        },
+        {
+          "word": "Productos",
+          "filename": "productos",
+          "translations": [
+            "Produkte",
+            "Waren"
+          ],
+          "definition": "Greifbare Gegenstände oder Einheiten, die in kommerziellen oder strukturellen Räumen hergestellt, produziert oder untergebracht werden."
+        },
+        {
+          "word": "Partes",
+          "filename": "partes",
+          "translations": [
+            "Teile",
+            "Abschnitte"
+          ],
+          "definition": "Bestandteile oder Abschnitte, die zu einer größeren Einheit oder Struktur gehören."
+        },
+        {
+          "word": "Plata",
+          "filename": "plata",
+          "translations": [
+            "Silber",
+            "Geld"
+          ],
+          "definition": "Ein natürlich vorkommendes metallisches chemisches Element mit der Ordnungszahl 47. Wird auch umgangssprachlich häufig verwendet, um auf Geld oder Bargeld zu verweisen.",
+          "info": "Das chemische Symbol für Silber ist Ag, abgeleitet vom lateinischen Wort \"argentum\"."
+        },
+        {
+          "word": "Cristales",
+          "filename": "cristales",
+          "translations": [
+            "Kristalle",
+            "Glasscherben"
+          ],
+          "definition": "Maskuline Pluralform von \"cristal\" (Kristall). Durchsichtige oder durchscheinende harte Materialien wie Quarz, Edelsteine oder hergestelltes Glas, das in Fenstern und Brillen verwendet wird. Es kann auch Scherben zerbrochenen Glases auf dem Boden bedeuten."
+        },
+        {
+          "word": "Culebra",
+          "filename": "culebra",
+          "translations": [
+            "Schlange",
+            "Natter"
+          ],
+          "definition": "Ein langes, beinloses Reptil mit einem flexiblen Körper.",
+          "info": "Das Wort \"culebra\" ist ein festes Genuswort, das nur in der weiblichen Form existiert."
+        }
+      ]
+    }
+  ]
+}

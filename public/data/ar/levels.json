@@ -1,0 +1,1340 @@
+{
+  "levels": [
+    {
+    "id": 1,
+    "title": "أساسيات يومية ١",
+    "description": "كلمات أساسية مستخدمة في الإسبانية اليومية.",
+    "words": [
+        {
+        "word": "Yo",
+        "filename": "yo",
+        "translations": [
+            "أنا"
+        ],
+        "definition": "الضمير اللي يستخدمه المتكلم عشان يشير لنفسه. مثال: \"Yo hablo español\" (أنا أتكلم إسباني)",
+        "note": "في الإسبانية، ضمائر الفاعل مثل \"yo\" غالبًا تنحذف إلا إذا كانت للتأكيد أو التوضيح."
+        },
+        {
+        "word": "Soy",
+        "filename": "soy",
+        "translations": [
+            "أنا"
+        ],
+        "definition": "صيغة المضارع للمفرد المتكلم من \"ser\" (يكون). تُستخدم عشان تقول شنو الشخص، شبيهه، شيسوي، أو من وين هو. مثال: \"Soy estudiante\" (أنا طالب)",
+        "info": "\"Soy\" فيها أصلًا معنى \"yo\", عشان جذي \"yo\" غالبًا تنحذف."
+        },
+        {
+        "word": "Agua",
+        "filename": "agua",
+        "translations": [
+            "مويه"
+        ],
+        "definition": "سائل شفاف، بلا ريحة ولا طعم، مكوَّن من الهيدروجين والأكسجين."
+        },
+        {
+        "word": "Dios",
+        "filename": "Dios",
+        "translations": [
+            "الله"
+        ],
+        "definition": "الكائن الأعلى، الخالق، والحاكم للكون، والمعبود في الأديان التوحيدية."
+        },
+        {
+        "word": "Familia",
+        "filename": "familia",
+        "translations": [
+            "عائلة"
+        ],
+        "definition": "مجموعة أشخاص بينهم قرابة دم، أو زواج، أو تبنّي، أو روابط عاطفية قوية، وعادةً يشاركون نفس البيت، ويساندون بعض، ويعيشون مع بعض كوحدة اجتماعية."
+        },
+        {
+        "word": "Río",
+        "filename": "río",
+        "translations": [
+            "نهر"
+        ],
+        "definition": "مجرى مائي كبير وطبيعي ينساب فوق سطح الأرض، وعادةً يصب في محيط، أو بحر، أو بحيرة، أو مسطح مائي أكبر."
+        },
+        {
+        "word": "Miel",
+        "filename": "miel",
+        "translations": [
+            "عسل"
+        ],
+        "definition": "مادة حلوة ولزجة تصنعها النحل—خصوصًا نحل العسل—من رحيق الأزهار."
+        },
+        {
+        "word": "Sangre",
+        "filename": "sangre",
+        "translations": [
+            "دم"
+        ],
+        "definition": "السائل الأحمر اللي يدور في جهاز القلب والأوعية الدموية، وينضخّه القلب."
+        },
+        {
+        "word": "Fuerte",
+        "filename": "fuerte",
+        "translations": [
+            "قوي"
+        ],
+        "definition": "شخص أو شي عنده قوة أو طاقة بدنية كبيرة."
+        },
+        {
+        "word": "Tiempo",
+        "filename": "tiempo",
+        "translations": [
+            "وقت"
+        ],
+        "definition": "التدفق المستمر غير المحدد للوجود والأحداث."
+        },
+        {
+        "word": "Fuego",
+        "filename": "fuego",
+        "translations": [
+            "نار"
+        ],
+        "definition": "حرارة وضوء ناتجين من الاشتعال."
+        },
+        {
+        "word": "Pueblo",
+        "filename": "pueblo",
+        "translations": [
+            "بلدة",
+            "قرية",
+            "ناس"
+        ],
+        "definition": "مجتمع صغير أو مكان مأهول يعيشه الناس مع بعض."
+        }
+    ]
+    },
+    {
+      "id": 2,
+      "title": "أساسيات يومية ٢",
+      "description": "كلمات أساسية مستخدمة في الإسبانية اليومية.",
+      "words": [
+        {
+          "word": "Palabras",
+          "filename": "palabras",
+          "translations": [
+            "كلمات"
+          ],
+          "definition": "الجمع من \"palabra\" (كلمة). وحدات من اللغة نستخدمها للكلام أو الكتابة."
+        },
+        {
+          "word": "Flores",
+          "filename": "flores",
+          "translations": [
+            "أزهار",
+            "تفتّحات",
+            "ورود"
+          ],
+          "definition": "الجمع من \"flor\" (زهرة). الأجزاء التناسلية للنبتة، وغالبًا تكون ملوّنة."
+        },
+        {
+          "word": "Corazón",
+          "filename": "corazón",
+          "translations": [
+            "قلب"
+          ],
+          "definition": "عضو عضلي موجود بالصدر، وهو المضخة الرئيسية لجهاز القلب والأوعية الدموية."
+        },
+        {
+          "word": "Ahora",
+          "filename": "ahora",
+          "translations": [
+            "الحين"
+          ],
+          "definition": "في الوقت الحالي أو على طول."
+        },
+        {
+          "word": "Paz",
+          "filename": "paz",
+          "translations": [
+            "سلام"
+          ],
+          "definition": "حالة هدوء من غير حرب ولا مشاكل."
+        },
+        {
+          "word": "Voz",
+          "filename": "voz",
+          "translations": [
+            "صوت"
+          ],
+          "definition": "الصوت اللي يطلع وقت الكلام أو الغنا."
+        },
+        {
+          "word": "Mano",
+          "filename": "mano",
+          "translations": [
+            "يد"
+          ],
+          "definition": "الجزء الأخير من ذراع الشخص بعد المعصم.",
+          "info": "\"Mano\" اسم مؤنث مفرد رغم إنه ينتهي بـ -o."
+        },
+        {
+          "word": "Siempre",
+          "filename": "siempre",
+          "translations": [
+            "دايم",
+            "على طول"
+          ],
+          "definition": "في كل الأوقات أو بكل مرة من غير استثناء.",
+          "info": "ظرف زمان."
+        },
+        {
+          "word": "Color",
+          "filename": "color",
+          "translations": [
+            "لون"
+          ],
+          "definition": "إدراكات بصرية للضوء تختلف حسب الطول الموجي والدرجة اللونية."
+        },
+        {
+          "word": "Cosas",
+          "filename": "cosas",
+          "translations": [
+            "أشياء",
+            "شغلات"
+          ],
+          "definition": "الجمع المؤنث من \"cosa\" (شيء). أشياء، أغراض، أو كيانات عامة من غير تصنيف محدد."
+        },
+        {
+          "word": "Padres",
+          "filename": "padres",
+          "translations": [
+            "أهل",
+            "آباء"
+          ],
+          "definition": "أب وأم، أو اللي يربّون ويهتمّون بولد، سواء بالإنجاب أو التبنّي أو التربية. وتستخدم بعد كذا للأبوات الذكور فقط. الجمع المذكر من \"padre\" (أب). أمثلة: \"Mis padres viven cerca\" (أهلي ساكنين قريب) | \"La escuela organizó un torneo de fútbol para los padres y sus hijos\" (المدرسة رتبت بطولة كورة للآباء وعيالهم)."
+        },
+        {
+          "word": "Nieve",
+          "filename": "nieve",
+          "translations": [
+            "ثلج"
+          ],
+          "definition": "هطول متجمّد يتكوّن من بلورات الثلج وينزل من السحب على شكل رقاقات بيضا."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "البلدان والأماكن",
+      "description": "كلمات وعبارات مرتبطة بالأماكن والمواقع.",
+      "words": [
+        {
+          "word": "Israel",
+          "filename": "israel",
+          "translations": [
+            "إسرائيل"
+          ],
+          "definition": "دولة بالشرق الأوسط."
+        },
+        {
+          "word": "Egipto",
+          "filename": "egipto",
+          "translations": [
+            "مصر"
+          ],
+          "definition": "دولة بشمال شرق أفريقيا."
+        },
+        {
+          "word": "Puerto Rico",
+          "filename": "puertoRico",
+          "translations": [
+            "بورتو ريكو"
+          ],
+          "definition": "مجموعة جزر بالأطلسي الكاريبي من جهة الشمال الشرقي.",
+          "info": "Puerto Rico أرض تابعة للولايات المتحدة، مو دولة مستقلة."
+        },
+        {
+          "word": "Desierto",
+          "filename": "desierto",
+          "translations": [
+            "صحراء",
+            "برّية"
+          ],
+          "definition": "منطقة يابسة وقاحلة، أمطارها قليلة جدًا ونباتها شحيح. مثال: \"Caminaron por el desierto\" (مشتوا عبر الصحراء)"
+        },
+        {
+          "word": "Por el desierto",
+          "filename": "porElDesierto",
+          "translations": [
+            "عبر الصحراء",
+            "عبر البرّية"
+          ],
+          "definition": "\"Por\" (عبر، لـ، من، بسبب) | \"el\" (أداة تعريف مذكر مفرد) | \"desierto\" (صحراء/برّية). مثال: \"El pueblo vagó por el desierto cuarenta años\" (تاهوا الناس عبر البرّية أربعين سنة)"
+        },
+        {
+          "word": "Tierra",
+          "filename": "tierra",
+          "translations": [
+            "أرض",
+            "التراب",
+            "الطبيعة",
+            "تربة"
+          ],
+          "definition": "كوكب الأرض، أو الأرض تحتك، أو التربة، أو البلد؛ وبحسب السياق ممكن بعد تعني منطقة أو إقليم."
+        },
+        {
+          "word": "Tierra ajena",
+          "filename": "tierraAjena",
+          "translations": [
+            "أرض غريبة",
+            "أرض غيره"
+          ],
+          "definition": "\"Tierra\" (أرض) | \"ajena\" (الصيغة المؤنثة المفردة من \"ajeno\" - غريب/يخص غيره). تشير إلى أرض، أو مكان، أو دولة مو لك. مثال: \"Vive en tierra ajena\" (عايش بأرض غريبة)"
+        },
+        {
+          "word": "Tierra buena",
+          "filename": "tierraBuena",
+          "translations": [
+            "أرض طيبة",
+            "أرض خصبة"
+          ],
+          "definition": "\"Tierra\" (أرض) | \"buena\" (الصيغة المؤنثة المفردة من \"bueno\" - طيب). تربة أو أرض منتجة وغنية بالعناصر، ومناسبة للزراعة والحراثة وطلوع المحاصيل. مثال: \"Es una tierra buena para sembrar\" (هذي أرض طيبة للزراعة)"
+        },
+        {
+          "word": "Tierra santa",
+          "filename": "tierraSanta",
+          "translations": [
+            "الأرض المقدسة",
+            "الأرض المباركة"
+          ],
+          "definition": "\"Tierra\" (أرض) | \"santa\" (الصيغة المؤنثة المفردة من \"santo\" - مقدس). إقليم يُنظر له على إنه مقدس."
+        },
+        {
+          "word": "Campo",
+          "filename": "campo",
+          "translations": [
+            "البر",
+            "حقل",
+            "أرض مفتوحة"
+          ],
+          "definition": "أرض مفتوحة برا عن المدن والبلدان؛ وغالبًا تُستخدم للدلالة على المزارع، والمراعي، أو المناطق الريفية. مثال: \"Los pastores estaban en el campo\" (الراعيّة كانوا بالبر)"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "الأرقام والعلوم الإنسانية",
+      "description": "كلمات للأعداد الأساسية مع مجالات مهمة من الفكر البشري والثقافة.",
+      "words": [
+        {
+          "word": "Tres",
+          "filename": "3",
+          "translations": [
+            "ثلاثة"
+          ],
+          "definition": "العدد الأساسي اللي يمثل كمية ثلاث وحدات."
+        },
+        {
+          "word": "Cuatro",
+          "filename": "4",
+          "translations": [
+            "أربعة"
+          ],
+          "definition": "العدد الأساسي اللي يمثل كمية أربع وحدات."
+        },
+        {
+          "word": "Siete",
+          "filename": "7",
+          "translations": [
+            "سبعة"
+          ],
+          "definition": "العدد الأساسي اللي يمثل كمية سبع وحدات."
+        },
+        {
+          "word": "Quince",
+          "filename": "15",
+          "translations": [
+            "خمستعش"
+          ],
+          "definition": "العدد الأساسي اللي يمثل كمية خمسطعش وحدة."
+        },
+        {
+          "word": "Veintiuno",
+          "filename": "21",
+          "translations": [
+            "واحد وعشرين"
+          ],
+          "definition": "العدد الأساسي اللي يمثل كمية واحد وعشرين وحدة."
+        },
+        {
+          "word": "Ochenta y tres",
+          "filename": "83",
+          "translations": [
+            "ثلاثة وثمانين"
+          ],
+          "definition": "العدد الأساسي اللي يمثل كمية ثلاثة وثمانين وحدة."
+        },
+        {
+          "word": "Filosofía",
+          "filename": "filosofía",
+          "translations": [
+            "فلسفة"
+          ],
+          "definition": "دراسة الأفكار الأساسية، والمعرفة، والوجود."
+        },
+        {
+          "word": "Poesía",
+          "filename": "poesía",
+          "translations": [
+            "شعر"
+          ],
+          "definition": "كتابة تستخدم إيقاع، وصوت، وتعبير بعناية."
+        },
+        {
+          "word": "Teología",
+          "filename": "teología",
+          "translations": [
+            "لاهوت"
+          ],
+          "definition": "دراسة الإيمان الديني، والممارسة، والتجربة."
+        },
+        {
+          "word": "Historia",
+          "filename": "historia",
+          "translations": [
+            "تاريخ",
+            "قصة"
+          ],
+          "definition": "سجل أو رواية للأحداث الماضية."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "أساسيات الإسبانية",
+      "description": "كلمات وعبارات إسبانية شائعة.",
+      "words": [
+        {
+          "word": "Ajena",
+          "filename": "ajena",
+          "translations": [
+            "مو حقه",
+            "غريبة",
+            "أجنبية"
+          ],
+          "definition": "صيغة مؤنثة مفردة من \"ajeno\" (مو حقه) تصف شي يخص شخص ثاني أو مو ملكك.",
+          "info": "المفرد المذكر: \"ajeno\"; الجمع المذكر: \"ajenos\"; الجمع المؤنث: \"ajenas\"."
+        },
+        {
+          "word": "Antigua",
+          "filename": "antigua",
+          "translations": [
+            "قديمة",
+            "عتيقة",
+            "سابقة"
+          ],
+          "definition": "صيغة مؤنثة مفردة من \"antiguo\" (قديم) تصف شي من الماضي.",
+          "info": "المفرد المذكر: \"antiguo\"; الجمع المذكر: \"antiguos\"; الجمع المؤنث: \"antiguas\"."
+        },
+        {
+          "word": "Barro",
+          "filename": "barro",
+          "translations": [
+            "طين",
+            "وحل",
+            "صلصال"
+          ],
+          "definition": "تراب مبلول أو طين مخلوط بالمويه. ويشير بعد للمادة الترابية اللي تُستخدم لصناعة الفخار، والطوب، والسيراميك."
+        },
+        {
+          "word": "Cabeza",
+          "filename": "cabeza",
+          "translations": [
+            "راس"
+          ],
+          "definition": "الجزء من الجسم اللي فوق الرقبة ويضم الدماغ، والعيون، والآذان، والأنف، والفم."
+        },
+        {
+          "word": "Callar",
+          "filename": "callar",
+          "translations": [
+            "يسكت",
+            "يخرّس",
+            "يمسك نفسه"
+          ],
+          "definition": "يوقف الكلام أو يخلي غيره يوقف كلامه."
+        },
+        {
+          "word": "Camino",
+          "filename": "camino",
+          "translations": [
+            "طريق",
+            "درب",
+            "مسار"
+          ],
+          "definition": "ممر أو سكة تنستخدم عشان التنقّل من مكان لمكان."
+        },
+        {
+          "word": "Cargas",
+          "filename": "cargas",
+          "translations": [
+            "حمولات",
+            "شحنات",
+            "أثقال"
+          ],
+          "definition": "الجمع من \"carga\" (حمولة، أو ثقل، أو شحنة). ويشير إلى عدة أوزان مادية، أو شحنات يتم نقلها، أو مسؤوليات ثقيلة ينحمل همّها.",
+          "info": "الاسم المؤنث \"carga\" له جذر اشتقاقي مشترك مع الاسم المذكر \"cargo\" (وكلهم من الفعل \"cargar\" - يشيل حمولة). لكن بينما \"cargo\" ممكن يعني وظيفة، أو منصب، أو رسوم مالية، فإن \"carga\" تشير بشكل خاص إلى الأحمال المادية، أو الشحنات، أو الأثقال."
+        },
+        {
+          "word": "Colores brillantes",
+          "filename": "coloresBrillantes",
+          "translations": [
+            "ألوان زاهية",
+            "ألوان لامعة"
+          ],
+          "definition": "\"Colores\" (الجمع من \"color\" - لون) | \"brillantes\" (الجمع من \"brillante\" - لامع، واللي ما يفرق فيه التذكير والتأنيث بالمفرد وينتهي بـ -es بالجمع). تشير إلى ألوان واضحة، أو زاهية، أو ملفتة للنظر.",
+          "info": "الكلمة الإسبانية \"color\" مذكر نحويًا وما لها صيغة مؤنثة. و\"brillante\" صفة تبقى نفس الصيغة للمذكر والمؤنث. والكلمتين يتغيرن بس للدلالة على العدد (مفرد أو جمع)، مو على الجنس."
+        },
+        {
+          "word": "Clamor",
+          "filename": "clamor",
+          "translations": [
+            "صرخة",
+            "هياح",
+            "صيحة"
+          ],
+          "definition": "صوت عالي، أو صيحة، أو تعبير ملحّ عن شعور قوي."
+        },
+        {
+          "word": "En general",
+          "filename": "enGeneral",
+          "translations": [
+            "بشكل عام",
+            "عمومًا"
+          ],
+          "definition": "\"En\" (في) | \"general\" (عام). عبارة تُستخدم لوصف شي على إنه صحيح في أغلب الحالات."
+        },
+        {
+          "word": "Entonces",
+          "filename": "entonces",
+          "translations": [
+            "بعدها",
+            "يعني",
+            "بذاك الوقت"
+          ],
+          "definition": "ظرف يُستخدم للدلالة على نتيجة، أو تتابع في الزمن (بعدها، أو بذاك الوقت)، أو كفاصل كلامي (يعني، أو بهالحالة)."
+        },
+        {
+          "word": "Por cierto",
+          "filename": "porCierto",
+          "translations": [
+            "على فكرة"
+          ],
+          "definition": "\"Por\" (بـ، لـ، عبر، بسبب) | \"cierto\" (مؤكد، أكيد، صحيح). عبارة تُستخدم لإضافة فكرة زيادة أو لفتح نقطة مرتبطة بالموضوع.",
+          "info": "لا تخلط هالعبارة مع \"por supuesto\" (أكيد). \"Por cierto\" تُستخدم للانتقال لفكرة جانبية أو لتغيير الموضوع شوي، بينما \"por supuesto\" تُستخدم للتعبير عن موافقة قوية أو لتأكيد شي بيقين."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "الأدوار والعلاقات",
+      "description": "كلمات وعبارات عن صلات العائلة، والأدوار الاجتماعية، والتعابير المرتبطة فيها.",
+      "words": [
+        {
+          "word": "Con su familia",
+          "filename": "conSuFamilia",
+          "translations": [
+            "مع عايلتهم",
+            "مع عايلته",
+            "مع عايلتها"
+          ],
+          "definition": "\"Con\" (مع) | \"su\" (حقه، حقها، حقهم، حقك) | \"familia\" (عايلة). تُستخدم لوصف إنهم مع مجموعة عايلية.",
+          "info": "\"Su\" صفة ملكية محايدة بالجنس، وممكن تعني حقه، أو حقها، أو حقهم، أو حقه، وكمان حقك في حالة المخاطب المفرد (usted) أو الجمع (ustedes) الرسمية."
+        },
+        {
+          "word": "Sus hermanos",
+          "filename": "susHermanos",
+          "translations": [
+            "خوانه",
+            "إخوانها",
+            "إخوانهم",
+            "إخوانك"
+          ],
+          "definition": "\"Sus\" (حقه، حقها، حقهم، أو حقك) | \"hermanos\" (إخوان، أو أشقاء). تشير إلى الإخوة الذكور للشخص أو الإخوة بشكل عام.",
+          "info": "\"Sus\" صفة ملكية محايدة بالجنس، وممكن تعني حقه، أو حقها، أو حقهم، أو حقه، وكمان حقك في حالة المخاطب المفرد (usted) أو الجمع (ustedes) الرسمية، وتُستخدم بس مع الأسماء الجمع أو الأشياء المملوكة المتعددة."
+        },
+        {
+          "word": "Señor",
+          "filename": "señor",
+          "translations": [
+            "سيدي",
+            "أستاذ"
+          ],
+          "definition": "لقب محترم يُستخدم لمخاطبة رجل أو الإشارة له.",
+          "info": "المذكر الجمع: \"señores\"; المؤنث المقابل: \"señora\"."
+        },
+        {
+          "word": "Mujer española",
+          "filename": "mujerEspañola",
+          "translations": [
+            "امرأة إسبانية"
+          ],
+          "definition": "\"Mujer\" (امرأة) | \"española\" (الصيغة المؤنثة المفردة من \"español\" - إسباني). امرأة إما إنها من إسبانيا أو مرتبطة بالهوية الإسبانية."
+        },
+        {
+          "word": "Rey",
+          "filename": "rey",
+          "translations": [
+            "ملك"
+          ],
+          "definition": "حاكم ذكر ذو سيادة لدولة مستقلة."
+        },
+        {
+          "word": "La reina",
+          "filename": "laReina",
+          "translations": [
+            "الملكة"
+          ],
+          "definition": "\"La\" (المؤنث المفرد \"الـ\") | \"reina\" (ملكة). حاكمة أنثى ذات سيادة لدولة مستقلة أو زوجة الملك."
+        },
+        {
+          "word": "Las labores",
+          "filename": "lasLabores",
+          "translations": [
+            "المهام",
+            "الشغلات",
+            "الأعمال"
+          ],
+          "definition": "\"Las\" (المؤنث الجمع \"الـ\") | \"labores\" (جمع \"labor\" - مهمة) . شغل، أو واجبات، أو أنشطة لازم تنسوى.",
+          "info": "مع إن أغلب الأسماء الإسبانية اللي تنتهي بـ -or تكون مذكرة، إلا إن \"labor\" مؤنثة وما لها صيغة مذكر."
+        },
+        {
+          "word": "Trabajo expuesto",
+          "filename": "trabajoExpuesto",
+          "translations": [
+            "عمل معروض",
+            "عمل مبين"
+          ],
+          "definition": "\"Trabajo\" (شغل، عمل) | \"expuesto\" (صيغة الماضي التام المذكر المفرد من \"exponer\" - يعرض). عمل معروض، أو موضوع على مرأى، أو مكشوف."
+        },
+        {
+          "word": "Resultó menguado",
+          "filename": "resultóMenguado",
+          "translations": [
+            "طلع أقل",
+            "انتهى وهو ناقص"
+          ],
+          "definition": "\"Resultó\" (صيغة الماضي التام للمفرد من \"resultar\" - يطلع، أو ينتج، أو يتبيّن إنه) | \"menguado\" (ناقص). يصف شي طلع أصغر، أو أضعف، أو أقل من المتوقع."
+        },
+        {
+          "word": "Triste resultado",
+          "filename": "tristeResultado",
+          "translations": [
+            "نتيجة حزينة",
+            "حصيلة مو حلوة"
+          ],
+          "definition": "\"Triste\" (حزين) | \"resultado\" (نتيجة، حصيلة). نتيجة موفقة أو مخيبة للأمل.",
+          "info": "مثل كل الصفات الإسبانية اللي تنتهي بـ -e، كلمة \"triste\" تتغير بس عشان تدل على العدد (مفرد أو جمع)، مو على الجنس."
+        },
+        {
+          "word": "Vaya de la tierra",
+          "filename": "vayaDeLaTierra",
+          "translations": [
+            "يطلع من الأرض",
+            "الله يخلّيه يترك الأرض"
+          ],
+          "definition": "\"Vaya\" (صيغة الماضي المنصوب أو أمر رسمي من \"ir\" - يروح) | \"de\" (من، أو لـ) | \"la\" (المؤنث المفرد \"الـ\") | \"tierra\" (أرض، تراب، أرض، تربة). تعبير عن المغادرة أو الابتعاد عن مكان أو أرض."
+        },
+        {
+          "word": "Servidumbre",
+          "filename": "servidumbre",
+          "translations": [
+            "خضوع",
+            "خدمة",
+            "شغّالين البيت"
+          ],
+          "definition": "حالة يكون فيها الشخص خاضع للتحكم أو لخدمة مفروضة، أو مجموعة الخدم في البيت."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "الوقت، التقدّم، والتسلسل",
+      "description": "كلمات وصيغ متعلّقة بالوقت، والتسلسل، والمدة، والتغيّر المستمر.",
+      "words": [
+        {
+          "word": "Febrero",
+          "filename": "febrero",
+          "translations": [
+            "فبراير"
+          ],
+          "definition": "الشهر الثاني من السنة في التقويم الغريغوري، يي بعد يناير وقبل مارس."
+        },
+        {
+          "word": "Primero de febrero",
+          "filename": "primeroDeFebrero",
+          "translations": [
+            "١ فبراير",
+            "الأول من فبراير"
+          ],
+          "definition": "\"Primero\" (الأول) | \"de\" (من، لـ) | \"febrero\" (فبراير). تعبير عن تاريخ بالتقويم يخص أول يوم من فبراير."
+        },
+        {
+          "word": "Octubre",
+          "filename": "octubre",
+          "translations": [
+            "أكتوبر"
+          ],
+          "definition": "الشهر العاشر من السنة في التقويم الغريغوري، يي بعد سبتمبر وقبل نوفمبر."
+        },
+        {
+          "word": "Poco tiempo",
+          "filename": "pocoTiempo",
+          "translations": [
+            "وقت قصير",
+            "شويّة وقت",
+            "مدة بسيطة"
+          ],
+          "definition": "\"Poco\" (قليل، قصير) | \"tiempo\" (وقت). فترة قصيرة من الوقت أو مدة بسيطة."
+        },
+        {
+          "word": "Progreso",
+          "filename": "progreso",
+          "translations": [
+            "تقدّم",
+            "تطوّر"
+          ],
+          "definition": "حركة لقدّام، أو تطوّر، أو تحسّن باتجاه هدف أو وجهة مع الوقت."
+        },
+        {
+          "word": "Aumentados",
+          "filename": "aumentados",
+          "translations": [
+            "زايدين",
+            "كبروا",
+            "ارتفعوا"
+          ],
+          "definition": "صيغة ماضية مكتملة بصيغة الجمع المذكر من \"aumentar\" (يزيد). صارت أكبر في الكمية أو الحجم أو العدد."
+        },
+        {
+          "word": "Crecían",
+          "filename": "crecían",
+          "translations": [
+            "كانوا يكبرون",
+            "كانوا يزيدون"
+          ],
+          "definition": "صيغة ماضية مستمرة من \"crecer\" (يكبر) وتوصف زيادة أو تطوّر أو نمو مستمر بالماضي."
+        },
+        {
+          "word": "Consumía",
+          "filename": "consumía",
+          "translations": [
+            "كان يستهلك",
+            "كان يُستهلك"
+          ],
+          "definition": "صيغة ماضية مستمرة (المضارع الناقص) من \"consumir\" (يستهلك، يصرف) وتوصف فعلًا شغال أو شي كان ينصرف بالماضي."
+        },
+        {
+          "word": "Generación",
+          "filename": "generación",
+          "translations": [
+            "جيل"
+          ],
+          "definition": "كل الناس اللي انولدوا وعاشوا تقريبًا بنفس الوقت، باعتبارهم مجموعة، أو فعل إنتاج شي."
+        },
+        {
+          "word": "También",
+          "filename": "también",
+          "translations": [
+            "بعد",
+            "همّ",
+            "بعد ذلك"
+          ],
+          "definition": "ظرف يُستخدم عشان يضيف شي ثاني، أو يدخل معلومة زيادة، أو يبيّن الموافقة مع اللي انقال قبل."
+        },
+        {
+          "word": "Postrera",
+          "filename": "postrera",
+          "translations": [
+            "الأخيرة",
+            "النهائية",
+            "الأحدث"
+          ],
+          "definition": "صيغة المؤنث المفرد من \"postrero\" (الأخير). توصف العنصر أو الشخص النهائي في تسلسل أو سلسلة.",
+          "info": "المفرد المذكر: \"postrero\"; الجمع المذكر: \"postreros\"; الجمع المؤنث: \"postreras\"."
+        },
+        {
+          "word": "Fin",
+          "filename": "fin",
+          "translations": [
+            "نهاية",
+            "ختام",
+            "إنهاء"
+          ],
+          "definition": "النقطة الأخيرة، أو الخلاصة، أو الجزء النهائي من شي."
+        }
+      ] 
+    },
+{
+      "id": 8,
+      "title": "الناس والأغراض",
+      "description": "كلمات وصيغ متعلّقة بالناس، والأدوار، والجماعات، والأشياء أو المواد الشائعة.",
+      "words": [
+        {
+          "word": "Prójimo",
+          "filename": "prójimo",
+          "translations": [
+            "الجار",
+            "إنسان مثلك",
+            "واحد من الناس"
+          ],
+          "definition": "شخص قريب من الواحد من الناحية الإنسانية أو الأخلاقية؛ يعني واحد من بني آدم."
+        },
+        {
+          "word": "Suegro",
+          "filename": "suegro",
+          "translations": [
+            "أبو الزوج/الزوجة"
+          ],
+          "definition": "أبو الزوج أو الزوجة."
+        },
+        {
+          "word": "Pastores",
+          "filename": "pastores",
+          "translations": [
+            "رعاة",
+            "قساوسة"
+          ],
+          "definition": "صيغة الجمع المذكر من \"pastor\" (راعي). ناس يرعون الغنم، أو قادة دينيين في بعض السياقات."
+        },
+        {
+          "word": "Parteras",
+          "filename": "parteras",
+          "translations": [
+            "قابلات"
+          ],
+          "definition": "صيغة الجمع المؤنث من \"partera\" (قابلة). نساء يساندن في الولادة.",
+          "info": "تقليديًا هالمهنة يغلب عليها النساء، عشان جذي الصيغة المؤنثة هي القياسية، مع إن الصيغة المذكرة \"partero\" ممكنة نحويًا لقابلة رجل."
+        },
+        {
+          "word": "Varón",
+          "filename": "varón",
+          "translations": [
+            "رجل",
+            "ذكر"
+          ],
+          "definition": "رجل بالغ، أو إنسان ذكر.",
+          "info": "\"Varón\" يعني بالتحديد ذكر من البشر. ورغم إن فيه صيغة مؤنثة قديمة ونادر تُستخدم، الإسبانية الحديثة تستخدم \"mujer\" كالمقابل القياسي للدلالة على الأنثى."
+        },
+        {
+          "word": "Vestidos",
+          "filename": "vestidos",
+          "translations": [
+            "فساتين",
+            "ملابس",
+            "ثياب"
+          ],
+          "definition": "صيغة الجمع المذكر من \"vestido\" (فستان، لباس). قطع ملابس تُلبس لتغطية الجسم. أمثلة: \"Mis vestidos favoritos están en el armario\" (فساتيني المفضلة موجودة في الدولاب [زمن حاضر/عبارة عامة]) | \"Ella está vestida para la ocasión\" (هي لابسة للمناسبة [إشارة لفعل بالماضي]).",
+          "info": "الصيغة المذكرة \"vestido\" تُستخدم كاسم للملابس، بينما الصيغة المؤنثة \"vestida\" تدل على فعل سابق (متلبسة، لابسة)."
+        },
+        {
+          "word": "Voluntario",
+          "filename": "voluntario",
+          "translations": [
+            "متطوّع"
+          ],
+          "definition": "شخص يتصرّف من نفسه وبارادته، مو تحت إجبار."
+        },
+        {
+          "word": "Vosotros",
+          "filename": "vosotros",
+          "translations": [
+            "إنتوا",
+            "إنتوا كلكم"
+          ],
+          "definition": "ضمير الجمع غير الرسمي المستخدم لما تخاطب أكثر من شخص."
+        },
+        {
+          "word": "Ladrillo",
+          "filename": "ladrillo",
+          "translations": [
+            "طابوقة"
+          ],
+          "definition": "كتلة مستطيلة من الطين المحروق أو مادة مشابهة تُستخدم في البناء."
+        },
+        {
+          "word": "Fibra",
+          "filename": "fibra",
+          "translations": [
+            "ليف"
+          ],
+          "definition": "خيط رفيع يشبه الخيط، خصوصًا إذا كان جزءًا من نسيج أو مادة أو قماش."
+        },
+        {
+          "word": "Vara",
+          "filename": "vara",
+          "translations": [
+            "عود",
+            "عصا",
+            "مِتك"
+          ],
+          "definition": "عود طويل ونحيف، غالبًا يُستخدم كدعم أو أداة أو شي للقياس."
+        },
+        {
+          "word": "Mesas",
+          "filename": "mesas",
+          "translations": [
+            "طاولات"
+          ],
+          "definition": "صيغة الجمع من \"mesa\" (طاولة). قطع أثاث لها سطح مسطّح، تُستخدم للأكل أو الشغل أو حطّ الأشياء عليها.",
+          "info": "الصيغة المذكرة لهالكلمة ما لها وجود."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "الأحداث والأفعال",
+      "description": "كلمات تتعلق بالأفعال، وكمان الأحداث اللي صارت، أو بتصير، أو قاعدة تصير الحين.",
+      "words": [
+        {
+        "word": "Conseguido",
+        "filename": "conseguido",
+        "translations": [
+            "تحقّق",
+            "تمّ الحصول عليه",
+            "نجح"
+        ],
+        "definition": "صيغة الماضي التام من \"conseguir\" (يحقّق، يحصل). توصّف شي صار بالفعل، تمّ كسبه أو الوصول إليه، أو إنجازه بنجاح."
+        },
+        {
+        "word": "Creerán",
+        "filename": "creerán",
+        "translations": [
+            "راح يصدّقون",
+            "راح يعتقدون"
+        ],
+        "definition": "صيغة المستقبل من \"creer\" (يصدّق، يعتقد) لـ \"ellos\" (هم). تشير إلى اعتقاد أو فكر راح يصير بعدين أو بالمستقبل."
+        },
+        {
+        "word": "Críamelo",
+        "filename": "críamelo",
+        "translations": [
+            "ربّيه لي"
+        ],
+        "definition": "\"Cría\" (صيغة أمر من \"criar\" - يربّي أو يولّي) + \"me\" (لي) + \"lo\" (ياه). أمر مركّب يطلب من أحد يربّي أو يرضّع طفل نيابة عن المتكلّم.",
+        "info": "هاللفظة ظهرت في خروج ٢:٩، لما بنت فرعون لقت الطفل موسى مختبي بالتابوت بين القصب. وشفقةً على الطفل اللي كان يبكي، سلّمته لأمّه البيولوجية (اللي كانت ممرّضة عبرانية متخفّية) وقالت: \"Lleva a este niño y críamelo, y yo te lo pagaré\" (خذي هالطفل وربّيه لي، وأنا بدفع لكِ)."
+        },
+        {
+        "word": "Dijo",
+        "filename": "dijo",
+        "translations": [
+            "قال",
+            "قالت",
+            "قال لـ",
+            "قالت لـ"
+        ],
+        "definition": "صيغة الماضي التام المفرد من \"decir\" (يقول، يحكي) لـ \"él\" (هو) أو \"ella\" (هي). تشير إلى فعل كلام أو حكي تمّ وانتهى بالماضي. مثال: \"Dijo que vendría\" (قال/قالت إنّه راح يجي).",
+        "info": "\"Dijo\" صيغة الماضي للمفرد الغائب. صيغة الماضي التام للمتكلم المفرد: \"dije\"؛ للمخاطب المفرد غير الرسمي (tú): \"dijiste\"؛ للجمع الغائب: \"dijeron\"."
+        },
+        {
+        "word": "Dicho",
+        "filename": "dicho",
+        "translations": [
+            "مقال",
+            "محكي",
+            "مبلّغ"
+        ],
+        "definition": "صيغة الماضي التام من \"decir\" (يقول، يحكي). توصّف شي تمّ قوله أو الكلام فيه بالفعل. مثال: \"Lo dicho\" (اللي تمّ قوله).",
+        "info": "\"Dicho\" تستخدم عادة للرجوع لكلمات أو عبارات سابقة."
+        },
+        {
+        "word": "Diciendo",
+        "filename": "diciendo",
+        "translations": [
+            "يقول",
+            "يحكي",
+            "يتكلّم"
+        ],
+        "definition": "صيغة الاستمرار من \"decir\" (يقول، يحكي). توصّف كلام أو حكي يصير بهالوقت. مثال: \"Está diciendo la verdad\" (هو/هي يقول الحقيقة)."
+        },
+        {
+        "word": "Enumerar",
+        "filename": "enumerar",
+        "translations": [
+            "يعدّد"
+        ],
+        "definition": "يسمّي الأشياء واحد واحد حسب الترتيب."
+        },
+        {
+        "word": "Miró",
+        "filename": "miró",
+        "translations": [
+            "نظر",
+            "شاهد",
+            "شاف"
+        ],
+        "definition": "صيغة الماضي التام المفرد من \"mirar\" (ينظر، يشوف) لـ \"él\" (هو) أو \"ella\" (هي). تشير إلى فعل نظر أو مشاهدة تمّ وانتهى بالماضي. مثال: \"Miró al cielo\" (هو/هي نظر للسماء)."
+        },
+        {
+        "word": "Parecía",
+        "filename": "parecía",
+        "translations": [
+            "كان يبدو",
+            "كان يظهر",
+            "كان شكله"
+        ],
+        "definition": "صيغة الماضي المستمر من \"parecer\" (يبدو، يظهر) لـ \"él\" (هو) أو \"ella\" (هي). توصّف شي كان يعطي انطباع معين خلال فترة بالماضي. مثال: \"Parecía cansado\" (كان يبدو متعب)."
+        },
+        {
+        "word": "Respondió",
+        "filename": "respondió",
+        "translations": [
+            "أجاب",
+            "ردّ"
+        ],
+        "definition": "صيغة الماضي التام المفرد من \"responder\" (يجاوب، يردّ) لـ \"él\" (هو) أو \"ella\" (هي). تشير إلى جواب أو ردّ تمّ وانتهى بالماضي. مثال: \"Respondió a la pregunta\" (هو/هي أجاب على السؤال)."
+        },
+        {
+        "word": "Sacó",
+        "filename": "sacó",
+        "translations": [
+            "أخرج",
+            "طلّع",
+            "سحب"
+        ],
+        "definition": "صيغة الماضي التام المفرد من \"sacar\" (يخرج، يطلّع) لـ \"él\" (هو) أو \"ella\" (هي). تشير إلى فعل إخراج أو إحضار شي تمّ وانتهى. مثال: \"Sacó el libro de la bolsa\" (هو/هي أخرج الكتاب من الشنطة)."
+        },
+        {
+        "word": "Recordar",
+        "filename": "recordar",
+        "translations": [
+            "يتذكّر",
+            "يستحضر",
+            "يذكّر"
+        ],
+        "definition": "يردّ شي للبال أو يخليه بالذاكرة. وكمان يقدر يعني يساعد أحد ثاني يتذكّر شي. مثال: \"Recordar una fecha\" (يتذكّر تاريخ)."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "التعبيرات والحالات المجرّدة",
+      "description": "كلمات وعبارات لها علاقة بالصفات، والحالات، والأفكار المجرّدة.",
+      "words": [
+        {
+          "word": "Acertadas",
+          "filename": "acertadas",
+          "translations": [
+            "صح",
+            "مناسبة",
+            "دقيقة"
+          ],
+          "definition": "صيغة الجمع المؤنث من \"acertado\" (صح، مناسب، دقيق). توصف أشياء هي على الصواب، مختارة زين، أو مناسبة.",
+          "info": "المفرد المذكر: \"acertado\"; المفرد المؤنث: \"acertada\"; الجمع المذكر: \"acertados\"."
+        },
+        {
+          "word": "Correspondencias",
+          "filename": "correspondencias",
+          "translations": [
+            "مراسلات",
+            "تطابقات",
+            "علاقات"
+          ],
+          "definition": "جمع \"correspondencia\" (مراسلة). تشير إلى العلاقات، أو التطابقات، أو المراسلات اللي تنرسل بين الناس أو الأماكن.",
+          "info": "الكلمة الإسبانية \"correspondencia\" مؤنثة نحويًا وما لها صيغة مذكّر."
+        },
+        {
+          "word": "Escondido",
+          "filename": "escondido",
+          "translations": [
+            "مخفي",
+            "مستور",
+            "سري"
+          ],
+          "definition": "صيغة الماضي التام المذكر المفرد من \"esconder\" (يخبّي، يستر). توصف شي مو ظاهر أو متخبّي عن العين.",
+          "info": "المفرد المؤنث: \"escondida\"; الجمع المذكر: \"escondidos\"; الجمع المؤنث: \"escondidas\"."
+        },
+        {
+          "word": "Ventajosamente",
+          "filename": "ventajosamente",
+          "translations": [
+            "بشكل مفيد",
+            "بفائدة",
+            "بربح"
+          ],
+          "definition": "توصف فعل يجيب منفعة أو فائدة."
+        },
+        {
+          "word": "Pericia",
+          "filename": "pericia",
+          "translations": [
+            "مهارة",
+            "خبرة",
+            "إتقان"
+          ],
+          "definition": "قدرة خاصة أو مهارة متدرّبة يسوي فيها الشخص الشي زين، خصوصًا من خلال الخبرة أو المعرفة."
+        },
+        {
+          "word": "Preeminencia",
+          "filename": "preeminencia",
+          "translations": [
+            "أسبقية",
+            "تفوق",
+            "مكانة بارزة"
+          ],
+          "definition": "حالة يكون فيها الشي أعلى من غيره من ناحية المرتبة، أو الأهمية، أو التميّز."
+        },
+        {
+          "word": "Primorosos",
+          "filename": "primorosos",
+          "translations": [
+            "فخم",
+            "جميل",
+            "مصنوع بإتقان"
+          ],
+          "definition": "صيغة الجمع المذكر من \"primoroso\" (فخم). توصف أشياء مصنوعة بعناية كبيرة، ودقّة، وجمال.",
+          "info": "المفرد المذكر: \"primoroso\"; المفرد المؤنث: \"primorosa\"; الجمع المؤنث: \"primorosas\"."
+        },
+        {
+          "word": "Miedo",
+          "filename": "miedo",
+          "translations": [
+            "خوف",
+            "فزعة",
+            "قلق"
+          ],
+          "definition": "إحساس قوي ومزعج يجي بسبب الإحساس بخطر، أو تهديد، أو أذى—سواء كان حقيقي أو متخيّل."
+        },
+        {
+          "word": "Muerte",
+          "filename": "muerte",
+          "translations": [
+            "موت"
+          ],
+          "definition": "النهاية الدائمة لكل وظائف الحياة عند الإنسان، أو الحيوان، أو النبات."
+        },
+        {
+          "word": "Protestas",
+          "filename": "protestas",
+          "translations": [
+            "احتجاجات",
+            "اعتراضات",
+            "مطالبات"
+          ],
+          "definition": "جمع \"protesta\" (احتجاج، مظاهرة). تعبيرات عن عدم الموافقة، أو الشكوى، أو الاعتراض العلني.",
+          "info": "الكلمة الإسبانية \"protesta\" تشير إلى حدث أو فعل، مو إلى إنسان."
+        },
+        {
+          "word": "Público",
+          "filename": "público",
+          "translations": [
+            "العام",
+            "الجمهور"
+          ],
+          "definition": "الناس بشكل عام، أو الجمهور اللي يحضر فعالية."
+        },
+        {
+          "word": "Servicio",
+          "filename": "servicio",
+          "translations": [
+            "خدمة",
+            "مساعدة",
+            "واجب"
+          ],
+          "definition": "فعل نافع، أو شغل يُسوى للغير، أو نظام منظّم يوفّر دعم أو مساعدة."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "الهوية والعلاقات",
+      "description": "كلمات وعبارات عن الناس، والصفات الشخصية، والهوية، والعلاقات.",
+      "words": [
+        {
+          "word": "Apasionados",
+          "filename": "apasionados",
+          "translations": [
+            "شغوفين",
+            "ملتهبين"
+          ],
+          "definition": "صيغة الجمع المذكر من \"apasionado\" (شغوف). توصف ناس عندهم مشاعر قوية، وحماس، أو اندفاع.",
+          "note": "تستخدم لمجموعات الرجال أو المجموعات المختلطة."
+        },
+        {
+          "word": "Ignorantes",
+          "filename": "ignorantes",
+          "translations": [
+            "جاهلين",
+            "مو واعين"
+          ],
+          "definition": "جمع \"ignorante\". توصف ناس ناقصهم علم، أو وعي، أو معلومات."
+        },
+        {
+          "word": "Interesadas",
+          "filename": "interesadas",
+          "translations": [
+            "مهتمات",
+            "فضوليات",
+            "منخرطات"
+          ],
+          "definition": "صيغة الجمع المؤنث من \"interesado\" (مهتم). توصف نساء أو مجموعات مؤنثة يبينون فضول، أو انتباه، أو مشاركة."
+        },
+        {
+          "word": "Exactores",
+          "filename": "exactores",
+          "translations": [
+            "جباة ضرائب",
+            "مُحصّلين"
+          ],
+          "definition": "جمع \"exactor\" (جباة ضرائب). تشير إلى ناس يجمعون فلوس أو دفعات، خصوصًا الضرائب أو الرسوم."
+        },
+        {
+          "word": "Jehová",
+          "filename": "jehová",
+          "translations": [
+            "يهوه"
+          ],
+          "definition": "اسم علم لله في السياق الديني.",
+          "info": "مع إن الكلمة العامة القياسية اللي تُستخدم للإشارة إلى الله بالإسبانية هي \"Dios\", إلا إن \"Jehová\" اسم علم خاص ومحدد، جا من الاسم العبري الرباعي \"יהוה\"."
+        },
+        {
+          "word": "Vigilante",
+          "filename": "vigilante",
+          "translations": [
+            "حارس",
+            "مراقب",
+            "مُشرف"
+          ],
+          "definition": "مشتقة من الفعل \"vigilar\" (يراقب أو يشرف). تشير إلى شخص يراقب، أو يحرس، أو يبقي شي تحت الملاحظة بشكل قانوني، رسمي، أو مخوّل.",
+          "info": "تنبيه عن معنى خاطئ: بالإسبانية، \"vigilante\" تعني حصريًا حارس أمن قانوني، أو حارس، أو مراقب رسمي. أما بالإنجليزية، vigilante تعني شخص ياخذ القانون بيده ويعاقب المجرمين خارج النظام القانوني."
+        },
+        {
+          "word": "Primogénito",
+          "filename": "primogénito",
+          "translations": [
+            "البكر"
+          ],
+          "definition": "شخص يُعرّف حسب ترتيب الولادة، وبالتحديد أول طفل انولد."
+        },
+        {
+          "word": "Siete hijas",
+          "filename": "sieteHijas",
+          "translations": [
+            "سبع بنات"
+          ],
+          "definition": "عبارة عائلية تشير إلى سبع بنات."
+        },
+        {
+          "word": "Contigo",
+          "filename": "contigo",
+          "translations": [
+            "معك"
+          ],
+          "definition": "عبارة تُستخدم للتعبير عن العلاقة أو التفاعل مع شخص ثاني."
+        },
+        {
+          "word": "Mi nombre",
+          "filename": "miNombre",
+          "translations": [
+            "اسمي"
+          ],
+          "definition": "علامة هوية تُستخدم للإشارة إلى النفس أو التعريف فيها."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "الكيانات والهياكل",
+      "description": "كلمات لها علاقة بالمباني المادية، والأشياء الملموسة، والكيانات التنظيمية.",
+      "words": [
+        {
+          "word": "Institutos",
+          "filename": "institutos",
+          "translations": [
+            "مؤسسات"
+          ],
+          "definition": "صيغة الجمع المذكر من \"instituto\" (مؤسسة). أركان اجتماعية، أو علمية، أو تعليمية ثابتة، متجذّرة بقوة في الحياة العامة والثقة الجماعية، وتشتغل كأطر بنيوية دائمة مو كجهات إدارية مؤقتة أو سريعة الزوال."
+        },
+        {
+          "word": "Edificio",
+          "filename": "edificio",
+          "translations": [
+            "مبنى",
+            "بنية",
+            "صرح"
+          ],
+          "definition": "هيكل دائم من صنع الإنسان، له جدران وسقف، ومصنوع للسكن، أو الشغل، أو الدراسة، أو التصنيع، أو التجمع."
+        },
+        {
+          "word": "La puerta de entrada",
+          "filename": "laPuertaDeEntrada",
+          "translations": [
+            "باب المدخل",
+            "الباب الأمامي",
+            "البوابة"
+          ],
+          "definition": "\"La\" (أداة التعريف المؤنثة المفردة \"ال\") | \"puerta\" (باب، بوابة) | \"de\" (لـ) | \"entrada\" (مدخل، دخول). الفتحة المعمارية الرئيسية أو الباب المستخدم للدخول إلى مبنى، أو غرفة، أو مساحة مغلقة."
+        },
+        {
+          "word": "Palacio",
+          "filename": "palacio",
+          "translations": [
+            "قصر",
+            "فلا"
+          ],
+          "definition": "مسكن فخم، وعظيم، ومرموق، انبنى تاريخيًا للملوك، أو العائلة المالكة، أو النبلاء الكبار، أو رؤساء الدول."
+        },
+        {
+          "word": "Zarza",
+          "filename": "zarza",
+          "translations": [
+            "شجيرة"
+          ],
+          "definition": "نبتة خشبية أصغر من الشجرة، تتميّز بعدة سيقان تتفرع قريب من الأرض بدل جذع رئيسي واحد.",
+          "info": "فيه نظرية طرحها Benny Shanon، وهو عالم نفس معرفي من Hebrew University، تقول إن العليقة المشتعلة اللي كان موسى يتكلم من خلالها مع الله كانت بالحقيقة شجرة أكاسيا فيها DMT."
+        },
+        {
+          "word": "Productos",
+          "filename": "productos",
+          "translations": [
+            "منتجات",
+            "بضائع"
+          ],
+          "definition": "أشياء أو كيانات ملموسة تمّ إنتاجها، أو تصنيعها، أو موجودة داخل مساحات تجارية أو بنيوية."
+        },
+        {
+          "word": "Partes",
+          "filename": "partes",
+          "translations": [
+            "أجزاء",
+            "أقسام"
+          ],
+          "definition": "مكوّنات أو أقسام تابعة لكيان أو بنية أكبر."
+        },
+        {
+          "word": "Plata",
+          "filename": "plata",
+          "translations": [
+            "فضة",
+            "فلوس"
+          ],
+          "definition": "عنصر كيميائي معدني موجود طبيعيًا، وعدده الذري 47. وكمان ينستخدم بالعامية غالبًا بمعنى الفلوس أو الكاش.",
+          "info": "الرمز الكيميائي للفضة هو Ag، ومأخوذ من الكلمة اللاتينية \"argentum\"."
+        },
+        {
+          "word": "Cristales",
+          "filename": "cristales",
+          "translations": [
+            "بلورات",
+            "قطع زجاج"
+          ],
+          "definition": "صيغة الجمع المذكر من \"cristal\" (بلورة). مواد صلبة شفافة أو شبه شفافة، مثل الكوارتز، أو الأحجار الكريمة، أو الزجاج المصنّع المستخدم في النوافذ والنظارات. وكمان ممكن يعني شظايا الزجاج المكسور على الأرض."
+        },
+        {
+          "word": "Culebra",
+          "filename": "culebra",
+          "translations": [
+            "حية",
+            "أفعى"
+          ],
+          "definition": "زاحف طويل بلا أرجل، وله جسم مرن.",
+          "info": "الكلمة \"culebra\" اسم ثابت الجنس وما يجي إلا بصيغة المؤنث."
+        }
+      ]
+    }
+  ]
+}
