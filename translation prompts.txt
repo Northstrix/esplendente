@@ -1,0 +1,248 @@
+Hebrew:
+
+Make it grammatically correct.
+Keep the Spanish part exactly as it is, keep the filenames exactly as they are, translate the whole thing to Hebrew as accurately as possible and also localize it—for example, if there's one English translation that matches the Spanish word but 2 Hebrew words are required, use 2, and vice versa, or there might be a case where 3 English translations are needed but 1 or 2 Hebrew ones would suffice.
+
+Anyway, examine it for every single case as for the Spanish pronouns and other parts: match them directly to Hebrew because sometimes they were matched to the English grammar including the neutral "it" which doesn't really exist in Hebrew and Spanish.
+
+I need a version where every English part is replaced by the Hebrew one and it must be a very clearly structured json that preserves the original structure, including the \" stuff
+
+Keep the English field names ("title", "description", "translations", "definition", and "info") intact, only translate the content, not the hardcoded json properties
+
+preserve:
+
+    The Spanish words (e.g. Mare, Casa, Lui, etc.) and their filenames unchanged.
+
+    Field names ("title", "description", "translations", etc.) exactly as they are.
+
+    Structure, brackets, quotes, and escaping (\" if present).
+
+I’ll replace all the English text values with accurate, fluent, and natural Hebrew translations, matching Spanish grammar and pronoun meaning—rather than sticking to the English logic (for example, translating “Lui” as “הוא / אותו” based on Spanish masculine reference rather than English usage).
+
+Use the English-style "
+
+No niqqud
+
+Replace Roman numerals (if present) with the Hebrew letter ones
+
+Provide formatted json in the codeblock
+
+Don't add invisible characters
+
+
+
+
+
+
+
+
+Hochdeutsch:
+
+Translation to Hochdeutsch (Standard German) — Full Structural and Formatting Preservation
+
+Translate all English text content into Hochdeutsch (Standard German) as accurately and naturally as possible, maintaining fluency and correctness while fully preserving the JSON structure and formatting.
+
+Keep all Spanish words, filenames, and field names exactly as they are. Only translate the English text values within the JSON (titles, descriptions, translations, definitions, and optional info fields).
+
+Translation and Localization Rules
+
+    Translate meaning naturally into Standard German, not word-for-word.
+
+    Localize intelligently: if one English word corresponds to two or more German equivalents (or fewer), use whatever number of terms achieves natural, idiomatic German wording.
+
+    Likewise, if a single German word expresses the same concept covered by two or three English ones, simplify accordingly.
+
+    When translating Spanish pronouns, verbs, or gendered forms, match them directly to German equivalents (e.g., Lui → er/ihn), avoiding English-centered grammatical mapping.
+
+Field and Structure Rules
+
+    Keep all field names unchanged: "title", "description", "translations", "definition", "info", "filename", and "word".
+
+    The structure, order, and indentation of the JSON must be identical to the original.
+
+    Escape internal quotes using \" (not \\").
+
+    Use English-style double quotes (") consistently.
+
+    Do not add trailing commas or invisible characters.
+
+Punctuation and Capitalization Rules
+
+    Preserve all punctuation marks (periods, commas, pipes, quotation marks, parentheses, colons, etc.) exactly as they appear in the English input.
+
+    For definitions containing example sentences, keep the ending punctuation mark of the entire definition exactly as in the English source.
+
+        Example sentences may lack a period at the end (as they do in the source).
+
+        The definition as a whole must retain its original final punctuation mark (e.g., the period at the very end).
+
+    For definitions without examples, use normal German punctuation throughout.
+
+    All other internal punctuation (commas, semicolons, pipes, etc.) should remain unchanged.
+
+    Capitalization for translations:
+
+        The first translation word must have its first letter capitalized (e.g., "Haus").
+
+        All subsequent translation words remain lowercase, unless they are capitalized in Standard German naturally (such as nouns).
+
+        Example:
+
+        json
+        "translations": [ "Haus", "heim", "unterkunft" ]
+
+    Within all translated text, follow Hochdeutsch capitalization: nouns capitalized, other words lowercase unless beginning a sentence.
+
+Roman Numerals and Special Characters
+
+    Replace all Roman numerals with Arabic numerals (e.g., "IV" → "4").
+
+    Keep all Spanish diacritics and special characters unchanged.
+
+Formatting and Output
+
+    Maintain valid JSON with identical spacing, bracket placement, and indentation.
+
+    Do not add, remove, or alter any brackets, commas, or quotation marks.
+
+    Do not change JSON hierarchy, word order, or array structure.
+
+    Provide the translated result inside a single code block, with no commentary or additional metadata.
+
+Example Reference:
+
+json
+{
+  "word": "Bambino",
+  "filename": "bambino",
+  "translations": [
+    "Kind",
+    "junge"
+  ],
+  "definition": "Ein männliches Kind, typischerweise von der Geburt bis zur Jugendzeit. Wird auch allgemein verwendet, um auf ein Kind zu verweisen. Beispiele: \"Aspettiamo un bambino tra tre mesi\" (Wir erwarten in drei Monaten ein Kind) | \"Il bambino stava imparando ad abbattere gli alberi\" (Der Junge lernte, Bäume zu fällen)."
+}
+
+Output Goal
+
+    The final JSON must be a perfectly structured, localized, idiomatic Hochdeutsch version where grammar, phrasing, and word choice sound completely natural to native speakers.
+
+    The structure, punctuation, escape format, and all non-English elements must remain exactly preserved.
+
+
+
+
+
+
+
+
+
+
+
+Gulf Arabic (Khaleeji):
+
+Translation to Gulf Arabic (Khaleeji). Full Structural and Formatting Preservation
+
+Translate all English text content into Gulf Arabic (Khaleeji), creating a NEW hybrid dialect by FULLY BLENDING the Gulf Arabic from the UAE, Kuwait, and Saudi Arabia. features throughout EVERY sentence — fuse vocabulary, grammar, pronunciation patterns, diminutives, idiomatic expressions, rhythm into ONE cohesive, living dialect maximally understood across the UAE, Kuwait, and Saudi Arabia and as much of Gulf Arabic (Khaleeji)-speaking communities as possible while remaining vividly natural.
+
+Maintain full structural fidelity — keep ALL punctuation, capitalization, JSON structure, escaping exactly as specified below.
+
+​
+
+Keep all Spanish text (words, pronouns, phrases, filenames) completely unchanged.
+
+Only translate English text values within the JSON, including "title", "description", "translations", "definition", and "info".
+Hybrid Dialect Creation Rules
+
+(Gulf Arabic (Khaleeji) spoken in the UAE, Kuwait, and Saudi Arabia. Intelligibility Target ~80%+)
+
+FUSE dialects organically at every linguistic level to create ONE unified, living dialect:
+
+    Mix grammatical particles, diminutives, idioms proportionally within sentences.
+
+AVOID extreme region-specific markers UNLESS absolutely necessary: no heavy remote desert communities extremes, no words incomprehensible outside their area — but sometimes use a region-specific word if it's the best option to represent a specific word or concept even better than anglicisms.
+
+PRIORITIZE mutual intelligibility: understandable in the UAE, Kuwait, Saudi Arabia, and beyond — aim for broadest possible Gulf comprehension across ~80%+ of Gulf Arabic (Khaleeji) speakers.
+Vividness Priority Rules
+
+VIVIDNESS > Universal Perfection: Create a LIVING spoken dialect that sounds natural, not dull Standard compromise or neutralized version of Arabic.
+​
+
+Anglicisms ONLY as absolute last resort: when NO viable Gulf Arabic (Khaleeji) term exists (not even the regional one that can be understood by at least 50% of Gulf Arabic (Khaleeji) speakers), AND descriptive circumlocution fails.
+
+​
+
+NO "standard Arabic" — Even the Gulf Arabic (Khaleeji) has many dialects with various subdialects, not to mention the Arabic languages as a whole. Use vivid regional authenticity over dead universal compromise.
+
+    ​
+
+Balance Universality with Authenticity: Attempt to create a widely-comprehensible dialect of Gulf Arabic (Khaleeji). If there's a Gulf Arabic (Khaleeji) word that can be used to describe a word or concept that could be widely understood around Gulf Arabic (Khaleeji)-speaking communities, use it. If there's no such word, use the words from the UAE, Kuwait, and Saudi Arabia even if not 100% pan-Gulf Arabic (Khaleeji) (if understood by ~80%+ of Gulf Arabic (Khaleeji) speakers). If even that is not an option, then use an anglicism. But never use a dull, universalized, universally inconvenient, culturally dead word — it's better to slightly compromise the reach than to spoil the translation. Still attempt to balance universality with vividness: use the words that can be understood across as much of the Gulf Arabic (Khaleeji) communities as necessary.
+Translation and Localization Rules
+
+Translate FULL MEANING naturally into this hybrid register — NOT word-for-word replacement.
+
+Localization required:
+
+    Spanish word/phrase → multiple Gulf Arabic (Khaleeji) terms if natural (expand freely).
+
+​
+
+Spanish → one hybrid term if covers multiple English words (simplify).
+
+​
+
+Spanish pronouns/gender → direct hybrid Gulf Arabic (Khaleeji) if possible
+    ​
+
+Field and Structure Rules
+
+Do not change ANY field names: "title", "description", "translations", "definition", "info", "filename", "word".
+
+Preserve structure, order, indentation, array length, formatting EXACTLY as original JSON.
+
+Use English-style double quotes (") and escape internal quotes as " (not \").
+
+No trailing commas or hidden characters.
+Punctuation and Capitalization Rules
+
+Preserve ALL punctuation exactly (periods, commas, pipes, quotes, parentheses, colons, etc.) as in English input.
+
+Definitions with examples: preserve FINAL punctuation mark of entire definition exactly as source.
+
+Internal example sentences may lack periods — keep unchanged.
+
+Definition string retains original final mark (usually period).
+
+Definitions without examples: apply natural hybrid Gulf Arabic (Khaleeji) punctuation.
+
+Internal commas/pipes/semicolons remain exactly as English.
+
+Definitions/descriptions: practical Gulf Arabic (Khaleeji) conventions — sentence-initial capitalized, nouns optionally capitalized for clarity, verbs/adjectives lowercase.
+Numbers and Characters
+
+Replace Roman numerals → Arabic (e.g., "IV" → "٤").
+
+Keep ALL Spanish diacritics/special characters unchanged.
+Formatting and Output
+
+Maintain VALID JSON: identical structure, spacing, bracket placement, indentation.
+
+Do NOT alter brackets, commas, property names, word order.
+
+Provide translated output inside ONE SINGLE code block — NO commentary/metadata.
+
+
+Output Goal
+
+Deliver fully localized JSON in teh mixed Gulf Arabic (Khaleeji) that can be understood across the UAE, Kuwait, Saudi Arabia, and other countires, regions, and communities where Gulf Arabic (Khaleeji) is spoken — natural spoken feel, pan-Gulf Arabic (Khaleeji) intelligible (~80%+ Gulf Arabic (Khaleeji)-speaking communities), vividly authentic.
+
+Ensure:
+
+    Structure 100% unchanged.
+
+​
+
+Escaping/punctuation preserved exactly.
+
+​English sentences and the English words "Example" and "Examples" msut be translated as well!
+​
+NO dull universal compromise — VIVID regional authenticity prioritized over the dead, universally inconvenient choices even if the localization would have the region-specific words from several countires, regions, or communities.

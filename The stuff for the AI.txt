@@ -1,0 +1,251 @@
+The WAV file contains the exact recording of what is written in its name. If you mention any story or literary context, include it only in the information section. The definitions must remain general and not specific to any story unless that context is specifically needed for the information field.
+
+Avoid using linguistic jargon such as “indeterminate,” “infinite,” or “imperfect tense clause.” Keep the definitions clear and general.
+
+If you mention a form, specify what form it is (e.g., past, present, completed, ongoing, hypothetical). You may also combine forms, such as “past completed,” if needed.
+
+Always capitalize the first letter of the first word. Capitalize other words only if they would normally be capitalized in the middle of a sentence, as well as the first letter of the first translation.
+
+Provide the formatted JSON in a code block containing all six words. You may only use words from the list below.
+
+Define Spanish phrases in English as natural English-style definitions, not word-for-word translations. For example, if the phrase is equivalent to “first time,” define it the way you would define an English phrase such as “first time” rather than translating each part literally.
+
+Keep the filenames exactly as they are in the list, just without the “.wav” part.
+
+If examples are present, they must be included in the description.
+If breaking down by gender, don’t forget to mention the original form. Put gender breakdowns in the info field.
+
+Structural Rules Observed for JSON Learning Levels
+1. Level Structure
+
+```json
+{
+  "id": [integer],
+  "title": "[Concise theme name, 2-4 words max]",
+  "description": "[1 sentence explaining content focus, 8-15 words]",
+  "words": [array of 6-12 word objects]
+}
+```
+
+2. Word Object Format
+
+```json
+{
+  "word": "[Exact phrase from filename, capitalized properly]",
+  "filename": "[exact .wav filename without .wav]",
+  "translations": ["Primary", "Secondary", "Tertiary"],
+  "definition": "[Core definition with grammatical breakdown if complex]",
+  "info": "[OPTIONAL: gender forms, context notes, variations]"
+}
+```
+
+3. Definition Rules
+
+✅ ALWAYS include breakdown for multi-word phrases: "\"Word1\" (meaning) | \"Word2\" (meaning)"
+✅ Spanish verb forms should specify the form when needed, for example:
+- present singular informal (tú) form
+- present singular formal (usted) form
+- present plural informal (vosotros) form
+- present plural formal (ustedes) form
+- past completed form
+- ongoing form
+- hypothetical form
+✅ Past participles = "Past completed [gender/number] form of \"infinitive\""
+✅ Adjectives = "[Gender/number] form of \"base adjective\""
+✅ Examples: "\"Spanish\" (English translation)"
+✅ Generic examples only
+✅ 1-2 sentences max, precise and educational
+✅ Capitalize first letter of "word", natural capitalization elsewhere
+
+4. Translation Array Rules
+
+✅ 1-3 English equivalents, most common first
+✅ First word ALWAYS capitalized
+✅ Array format with quotes: ["Primary", "Secondary"]
+✅ Descending order of frequency/common usage
+
+5. Info Field (Optional but Strategic)
+
+✅ Gender declensions: "Singular masculine: \"form\"; plural feminine: \"form\""
+✅ Story context: ONLY in "info", never main definition
+✅ Form variations: forms such as singular/plural or masculine/feminine when relevant
+✅ Historical/cultural notes when phrase has special meaning
+✅ Technical corrections when needed
+
+6. Content Guidelines
+
+✅ Theme consistency: All words fit stated title/description
+✅ Source fidelity: ONLY use exact phrases from provided .wav list
+✅ Balance: 40% single words, 40% phrases, 20% complex forms
+✅ Difficulty: Mix basic + nuanced vocabulary per level
+
+7. Formatting Precision
+
+✅ JSON valid, no trailing commas
+✅ Double backslashes for quotes: "\\"word\\""
+✅ Consistent spacing/indentation
+✅ No invented filenames or words
+✅ Filename = word but lowercase + no punctuation
+
+8. Voice & Style
+
+✅ Educational but approachable
+✅ Precise grammar explanations without jargon
+✅ Neutral/generic examples
+✅ Natural Spanish example sentences when helpful
+✅ Spanish-specific grammatical distinctions should be handled clearly and simply
+
+1. JSON Structure Patterns
+
+Every entry MUST have:
+├── "word" (main form shown)
+├── "filename" (lowercase, no spaces)
+├── "translations" (array, English equivalents)
+├── "definition" (grammar breakdown | meaning + context)
+├── "info"/"note" (OPTIONAL: forms clarification)
+└── Consistent escaping: \"word\" inside JSON strings
+
+2. Definition Formula (Your Preferred Style)
+
+"[Breakdown]" + ". " + "[Type] " + "[action/description]."
+
+Examples:
+
+"\"Conducid\" (vosotros imperative of \"conducir\") | \"lo\". A plural informal command directing action."
+"\"Habla\" (tú imperative of \"hablar\"). An informal imperative giving a direct instruction."
+"\"Hable\" (usted imperative of \"hablar\"). A formal polite command."
+"\"Hablando\" (ongoing form of \"hablar\"). Describes speech in progress."
+
+3. Spanish Form Rules (Critical)
+
+Person / Form / Context / Examples
+tú        Single informal           Direct command, casual speech      Habla, Mira, Dímelo
+usted     Single formal polite       Respectful or formal address       Hable, Mire, Dígamelo
+vosotros  Group informal             Common in Spain, plural command    Hablad, Mirad, Decid
+ustedes   Group formal or general    Formal in many regions; plural    Hablen, Miren, Digan
+yo        First person               Speaker form                     Hablo, Digo, Estoy
+él/ella/usted Third person singular  Subject form or formal address    Habla, Dice, Está
+nosotros  First person plural        We-form                          Hablamos, Decimos, Estamos
+
+4. Note/Info Field Pattern
+
+"\"[word]\" is the [person] form of [verb]. Singular formal (usted): \"[form]\"; plural informal (vosotros): \"[form]\"; plural formal or general plural (ustedes): \"[form]\"; first person singular (yo): \"[form]\"."
+
+Use this pattern when the word is a conjugated verb form and person clarification is useful.
+
+5. Word Categories & Their Patterns
+
+Category        Definition Style                               Needs "note"?
+Imperatives     Always specify tú/usted/vosotros/ustedes        ✅ YES
+Past participles Include gender and number + what they describe  ✅ YES when helpful
+Adjectives      Include gender agreement + base form             ✅ YES when helpful
+Pure nouns      Simple definition                              ❌ NO
+Pronoun combos  Include verb + pronoun breakdown                ✅ YES
+Gerunds         Ongoing form + verb base                        ❌ usually no
+Infinitives     Base form + meaning                           ❌ usually no
+
+6. Spanish-Specific Grammar Notes
+
+✅ Imperatives:
+- tú: informal singular command
+- usted: formal singular command
+- vosotros: informal plural command, especially in Spain
+- ustedes: plural command, formal in Spain and standard in much of Latin America
+
+✅ Gender and number:
+- masculine singular
+- feminine singular
+- masculine plural
+- feminine plural
+
+✅ Past forms:
+- If a word is a past participle or past form, specify the tense/form plainly.
+- If needed, mention whether it functions as an adjective.
+
+✅ Pronoun attachment:
+- If a verb includes attached pronouns, break it down clearly, for example: "\"Dímelo\" (di + me + lo)."
+
+7. Escaping Rule (JSON Safety)
+
+Inside "definition"/"info": Every Spanish word = \"word\"
+Example: "\"Habla\" (tú imperative of \"hablar\")"
+
+8. Filename Rule
+
+word → filename: ALL lowercase, spaces → nothing
+"Habla conmigo" → "habla conmigo"
+"Por favor" → "por favor"
+
+These patterns create scannable, consistent, complete vocabulary entries. Every improvement we've made follows these rules systematically!
+
+Linguistic Complexity Rules for Definitions & Breakdowns
+1. Definition Complexity Scale
+
+LEVEL 1 (Simple): Single base-form words → Pure meaning + 1 example
+"Cierto" → "Describes certainty or confidence. Ex: \"Estoy cierto\"."
+
+LEVEL 2 (Moderate): Forms/derivatives → Form + meaning + context
+"Curvo" → "Singular masculine form of \"curvo\". Describes something bent or arched."
+
+LEVEL 3 (Complex): Multi-word/phrases → Full breakdown | meaning
+"Por favor" → "\"Por\" | \"favor\". A polite expression used to make a request."
+
+2. Breakdown Rules (ONLY when triggered)
+
+APPLY breakdown (| separator) WHEN:
+
+1. 2+ WORDS: "Por favor" → "\"Por\" | \"favor\""
+2. NON-BASE VERB FORM: "Hablaste" → "\"Hablaste\" (past completed singular informal form of \"hablar\")"
+3. NON-BASE NOUN: "Follaje" → "\"Follaje\" (collective noun related to \"hoja\")"
+4. PRONOUN COMBOS: "Dímelo" → "\"Di\" | \"me\" | \"lo\""
+
+NO breakdown for:
+
+- Base infinitive: "Recordar" → No "|"
+- Base singular masculine noun: "Río" → No "|"
+- Single simple nouns: "Bestia" → No "|"
+
+3. Complexity by Word Type
+
+Single base verb: No breakdown.
+Conjugated verb: Always include form + meaning.
+2+ word phrase: Always break down every word.
+Adjective not in masculine singular: Include form origin.
+Diminutives or derived nouns: Include origin when useful.
+
+4. Definition Length Rule
+
+Base form → 1 sentence
+Derived form → 1 sentence for form + 1 sentence for meaning
+Multi-word → Breakdown | 1 descriptive sentence
+
+Examples Applied
+
+```json
+{"word": "Recordar", "definition": "To bring to mind again or keep in memory."}
+{"word": "Dímelo", "definition": "\"Di\" | \"me\" | \"lo\". An urgent or direct request to tell me that thing."}
+{"word": "Curvo", "definition": "\"Curvo\". A masculine singular form describing something bent or arched.", "info": "\"Curvo\" is the singular masculine form. Singular feminine: \"Curva\"; plural masculine: \"Curvos\"; plural feminine: \"Curvas\"."}
+```
+
+This creates perfectly scaled complexity: simple words stay simple, complex forms get precise breakdowns only when needed.
+
+Key patterns learned from the correct example:
+Structure & Complexity Rules:
+
+Simple words = single sentence definition, no breakdown.
+
+Complex forms = form breakdown first | descriptive meaning second.
+
+Person should be specified where relevant: tú, usted, vosotros, ustedes, yo, él/ella.
+
+The description should explain action, purpose, or context, not just translate.
+
+The info field is optional and should be used for gender forms, person conjugations, or other useful Spanish grammar notes only.
+
+Complexity Scale Applied:
+
+LEVEL 1: Simple nouns/adverbs = 1 sentence (no breakdown)
+LEVEL 2: Single conjugated verbs = form + 1 sentence
+LEVEL 3: Multi-word phrases = every word broken down | 1 descriptive sentence
+
+These rules keep the output clean, consistent, and suitable for a Spanish vocabulary dataset.
