@@ -132,7 +132,7 @@ export default function LanguageIsle({
   return (
     <div key={direction} className="relative">
       {/* TRIGGER ISLE */}
-      <motion.div
+<motion.div
         layout
         onClick={() => !isOpen && setIsOpen(true)}
         onMouseEnter={() => { setIsHovered(true); setStayHovered(false); }}
@@ -152,8 +152,8 @@ export default function LanguageIsle({
           borderColor: 'hsl(var(--border))',
           ...(isHovered && {
             backgroundImage: isRTL
-              ? 'repeating-conic-gradient(from 0deg at 50% 50%, #5a922c 0%, #4c7894 25%, #d79f1e 50%, #dd7bbb 75%, #5a922c 100%)'
-              : 'repeating-conic-gradient(from 0deg at 50% 50%, #5a922c 0%, #dd7bbb 25%, #d79f1e 50%, #4c7894 75%, #5a922c 100%)',
+              ? 'repeating-conic-gradient(from 0deg at 50% 50%, #b832ff 0%, #b832ff 25%, #00f0ff 50%, #39ff14 75%, #b832ff 100%)'
+              : 'repeating-conic-gradient(from 0deg at 50% 50%, #b832ff 0%, #39ff14 25%, #00f0ff 50%, #b832ff 75%, #b832ff 100%)',
             backgroundColor: 'transparent',
             backgroundBlendMode: 'overlay',
             borderColor: '#4d4d4d'

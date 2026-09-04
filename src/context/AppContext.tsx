@@ -28,9 +28,9 @@ class AudioEngine {
 
   // HARDCODED UI SOUND VOLUMES (0.0 to 1.0)
   private uiSoundVolumes: Record<string, number> = {
-    success: 0.8,
-    error: 0.8,
-    completed: 0.72,
+    success: 0.9,
+    error: 0.9,
+    completed: 0.82,
   };
 
   private uiSounds = ['success', 'error', 'completed'];

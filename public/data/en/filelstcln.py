@@ -5,6 +5,9 @@ from pathlib import Path
 # === MANUAL EXCLUSION LIST (filenames to always exclude) ===
 EXCLUSION_LIST = {
     "creyóse",
+    "diréis",
+    "carrizal",
+    "almenorruido"
 }
 
 def main():

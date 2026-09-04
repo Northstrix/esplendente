@@ -21,6 +21,22 @@ export default function AcknowledgementsSection() {
 
 [Las secciones españolas de Señoras y Forestal](https://www.archive.org/download/viajeaamerica1_2203_librivox/viajeaamerica1_15_puigyvalls_128kb.mp3) from [Viaje a América (Tomo 1 de 2)](https://librivox.org/viaje-a-america-tomo-1-by-rafael-puig-y-valls/) read by [MiltonFMH](https://librivox.org/reader/16442)
 
+[Primera Noche](https://www.archive.org/download/nochesblancas_2509_librivox/nochesblancas_01_dostoyevsky_128kb.mp3) from [Las noches blancas](https://librivox.org/las-noches-blancas-by-fyodor-dostoyevsky/) read by [Victor Villarraza](https://librivox.org/reader/8882)
+
+[Capítulo 5](https://www.archive.org/download/biblereinavalera02exodo_1611_librivox/exodo_05_rva_128kb.mp3) from [Bible (Reina Valera) 02: Éxodo](https://librivox.org/bible-reina-valera-02-exodo-by-reina-valera/) read by [Joyfull](https://librivox.org/reader/9972)
+
+[Capítulo 6](https://www.archive.org/download/biblereinavalera02exodo_1611_librivox/exodo_06_rva_128kb.mp3) from [Bible (Reina Valera) 02: Éxodo](https://librivox.org/bible-reina-valera-02-exodo-by-reina-valera/) read by [Joyfull](https://librivox.org/reader/9972)
+
+[Un enamorado y un loco](https://www.archive.org/download/milyunfantasmasvol2_2202_librivox/milyunfantasmasvol2_05_dumas_128kb.mp3) from [Los mil y un fantasmas, vol. 2](https://librivox.org/los-mil-y-un-fantasmas-vol-2-by-alexandre-dumas/) read by [MiltonFMH](https://librivox.org/reader/16442)
+
+[Capítulo 01](https://www.archive.org/download/numeros_rva_2002_librivox/numeros_01_rva_128kb.mp3) from [Bible (Reina Valera) 04: Números](https://librivox.org/numeros-reina-valera/) read by [Joyfull](https://librivox.org/reader/9972)
+
+[Capítulo 02](https://www.archive.org/download/numeros_rva_2002_librivox/numeros_02_rva_128kb.mp3) from [Bible (Reina Valera) 04: Números](https://librivox.org/numeros-reina-valera/) read by [Joyfull](https://librivox.org/reader/9972)
+
+[Capítulo 6](https://www.archive.org/download/jueces_reinavalera_1704_librivox/jueces_06_rva_128kb.mp3) from [Bible (Reina Valera) 07: Jueces](https://librivox.org/jueces-de-la-reina-valera/) read by [Joyfull](https://librivox.org/reader/9972)
+
+[Capítulo 7](https://www.archive.org/download/jueces_reinavalera_1704_librivox/jueces_07_rva_128kb.mp3) from [Bible (Reina Valera) 07: Jueces](https://librivox.org/jueces-de-la-reina-valera/) read by [Joyfull](https://librivox.org/reader/9972)
+
 Photo by [Edgar Mosqueda Camacho](https://www.pexels.com/@edgar-mosqueda-camacho-544076702/) from [Pexels](https://www.pexels.com/photo/illuminated-church-in-guadalajara-in-mexico-at-night-19118030/)
 
 Photo by [Edgar Mosqueda Camacho](https://www.pexels.com/@edgar-mosqueda-camacho-544076702/) from [Pexels](https://www.pexels.com/photo/27304775/)

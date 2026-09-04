@@ -1,6 +1,8 @@
+LEVEL GENERATION PROMPT:
+
 The WAV file contains the exact recording of what is written in its name. If you mention any story or literary context, include it only in the information section. The definitions must remain general and not specific to any story unless that context is specifically needed for the information field.
 
-Avoid using linguistic jargon such as “indeterminate,” “infinite,” or “imperfect tense clause.” Keep the definitions clear and general.
+Avoid using linguistic jargon such as “indeterminate,” “infinite,” “imperfect tense clause,” "first person," "second person," "outside person" or "third person." Keep the definitions clear and general, using speaker's form instead of first person, single/plural informal or formal instead of second/third person, and ongoing form instead of continuous or progressive tenses.
 
 If you mention a form, specify what form it is (e.g., past, present, completed, ongoing, hypothetical). You may also combine forms, such as “past completed,” if needed.
 
@@ -116,50 +118,50 @@ Examples:
 "\"Hable\" (usted imperative of \"hablar\"). A formal polite command."
 "\"Hablando\" (ongoing form of \"hablar\"). Describes speech in progress."
 
-3. Spanish Form Rules (Critical)
+3. Spanish Form Rules (Critical) — Note: The exact order listed below must be strictly kept.
 
-Person / Form / Context / Examples
-tú        Single informal           Direct command, casual speech      Habla, Mira, Dímelo
-usted     Single formal polite       Respectful or formal address       Hable, Mire, Dígamelo
-vosotros  Group informal             Common in Spain, plural command    Hablad, Mirad, Decid
-ustedes   Group formal or general    Formal in many regions; plural    Hablen, Miren, Digan
-yo        First person               Speaker form                     Hablo, Digo, Estoy
-él/ella/usted Third person singular  Subject form or formal address    Habla, Dice, Está
-nosotros  First person plural        We-form                          Hablamos, Decimos, Estamos
+Form / Category / Context / Examples
+tú         Single informal              Direct command, casual speech      Habla, Mira, Dímelo
+usted      Single formal polite         Respectful or formal address       Hable, Mire, Dígamelo
+vosotros   plural informal               Common in Spain, plural command    Hablad, Mirad, Decid
+ustedes    plural formal or general      Formal in many regions; plural     Hablen, Miren, Digan
+yo         Speaker's form               Single speaker form                Hablo, Digo, Estoy, Dijere
+él/ella/usted Single outside form        Subject form or formal address     Habla, Dice, Está
+nosotros   We-form                      plural speaker form                 Hablamos, Decimos, Estamos
 
 4. Note/Info Field Pattern
 
-"\"[word]\" is the [person] form of [verb]. Singular formal (usted): \"[form]\"; plural informal (vosotros): \"[form]\"; plural formal or general plural (ustedes): \"[form]\"; first person singular (yo): \"[form]\"."
+"\"[word]\" is the [form type] of [verb]. Singular formal (usted): \"[form]\"; plural informal (vosotros): \"[form]\"; plural formal or general plural (ustedes): \"[form]\"; speaker's form (yo): \"[form]\"."
 
-Use this pattern when the word is a conjugated verb form and person clarification is useful.
+Use this pattern when the word is a conjugated verb form and form clarification is useful.
 
 5. Word Categories & Their Patterns
 
-Category        Definition Style                               Needs "note"?
+Category        Definition Style                            Needs "note"?
 Imperatives     Always specify tú/usted/vosotros/ustedes        ✅ YES
 Past participles Include gender and number + what they describe  ✅ YES when helpful
-Adjectives      Include gender agreement + base form             ✅ YES when helpful
+Adjectives      Include gender agreement + base form               ✅ YES when helpful
 Pure nouns      Simple definition                              ❌ NO
 Pronoun combos  Include verb + pronoun breakdown                ✅ YES
-Gerunds         Ongoing form + verb base                        ❌ usually no
-Infinitives     Base form + meaning                           ❌ usually no
+Gerunds         Ongoing form + verb base                       ❌ usually no
+Infinitives     Base form + meaning                            ❌ usually no
 
 6. Spanish-Specific Grammar Notes
 
 ✅ Imperatives:
-- tú: informal singular command
-- usted: formal singular command
+- tú: informal single command
+- usted: formal single command
 - vosotros: informal plural command, especially in Spain
 - ustedes: plural command, formal in Spain and standard in much of Latin America
 
 ✅ Gender and number:
-- masculine singular
-- feminine singular
+- masculine single
+- feminine single
 - masculine plural
 - feminine plural
 
 ✅ Past forms:
-- If a word is a past participle or past form, specify the tense/form plainly.
+- If a word is a past participle or past form, specify the tense/form plainly without heavy jargon.
 - If needed, mention whether it functions as an adjective.
 
 ✅ Pronoun attachment:
@@ -249,3 +251,15 @@ LEVEL 2: Single conjugated verbs = form + 1 sentence
 LEVEL 3: Multi-word phrases = every word broken down | 1 descriptive sentence
 
 These rules keep the output clean, consistent, and suitable for a Spanish vocabulary dataset.
+
+
+WORD DEFINITION PROMPT:
+
+Do not just write stuff like “calle is a street”
+That would sound nonsensical when trying to define what the target word is.
+
+When writing dictionary-style definition, never write circular, placeholder definition that simply substitute the target word with a direct English synonym (such as writing "calle is a street" or listing raw translated terms).
+
+Instead, write a descriptive, explanatory definition that details the physical reality, function, structure, or material nature of what the word represents, operating under the assumption that the user can already see the direct translations elsewhere in the UI. Focus entirely on describing the actual object, concept, or biological entity itself.
+
+Provide a clear, dictionary-style English definition for the following Spanish word:
